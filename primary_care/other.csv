@@ -1,0 +1,184 @@
+read_2,read_3,desc,type,variable,value,level,N
+137X.,Ub1tI,Cigarette consumption,other,smoking,consumption,,53195
+,XE0og,Tobacco smoking consumption,other,smoking,consumption,,12432
+137..,,Tobacco consumption,other,smoking,consumption,,8653
+,Ub0p3,Age at starting smoking,other,smoking,consumption,,2749
+137Y.,Ub1tJ,Cigar consumption,other,smoking,consumption,,2714
+137g.,XaIuQ,Cigarette pack-years,other,smoking,consumption,,2323
+137Z.,137Z.,Tobacco consumption NOS,other,smoking,consumption,,1264
+,Ub0oo,Tobacco smoking behaviour,other,smoking,consumption,,1229
+137n.,Ub0p2,Total time smoked,other,smoking,consumption,,540
+,137..,[Tobacco consumption] or [smoker - amount smoked],other,smoking,consumption,,526
+137a.,Ub1tK,Pipe tobacco consumption,other,smoking,consumption,,482
+,Ub0p1,Time since stopped smoking,other,smoking,consumption,,412
+,6893.,Tobacco usage screening,other,smoking,consumption,,389
+137h.,XaJX2,Minutes from waking to first tobacco consumption,other,smoking,consumption,,385
+6893.,,Tobacco usage screen,other,smoking,consumption,,342
+,Ub1nZ,Tobacco use and exposure,other,smoking,consumption,,300
+68T..,,Tobacco usage screen,other,smoking,consumption,,284
+ZV4K0,ZV4K0,[V]Tobacco use,other,smoking,consumption,,133
+,XE0sl,Tobacco consumption: [non-smoker] or [smoker - amount smoked],other,smoking,consumption,,81
+137o.,XaZIE,Waterpipe tobacco consumption,other,smoking,consumption,,8
+,.137Z,See 137Z.,other,smoking,consumption,,0
+,137n.,See Ub0p2,other,smoking,consumption,,0
+,.137X,See Ub1tI,other,smoking,consumption,,0
+,137X.,See Ub1tI,other,smoking,consumption,,0
+,.137Y,See Ub1tJ,other,smoking,consumption,,0
+,137Y.,See Ub1tJ,other,smoking,consumption,,0
+,.137a,See Ub1tK,other,smoking,consumption,,0
+,137a.,See Ub1tK,other,smoking,consumption,,0
+,.137g,See XaIuQ,other,smoking,consumption,,0
+,137g.,See XaIuQ,other,smoking,consumption,,0
+,.137h,See XaJX2,other,smoking,consumption,,0
+,137h.,See XaJX2,other,smoking,consumption,,0
+,137o.,See XaZIE,other,smoking,consumption,,0
+,1375.,Heavy cigarette smoker (20-39 cigs/day),other,smoking,current,heavy,5101
+1375.,,Heavy smoker - 20-39 cigs/day,other,smoking,current,heavy,3714
+,.1375,See 1375.,other,smoking,current,heavy,0
+,1373.,Light cigarette smoker (1-9 cigs/day),other,smoking,current,light,6686
+1373.,,Light smoker - 1-9 cigs/day,other,smoking,current,light,3474
+,.1373,See 1373.,other,smoking,current,light,0
+,1374.,Moderate cigarette smoker (10-19 cigs/day),other,smoking,current,moderate,9571
+1374.,,Moderate smoker - 10-19 cigs/d,other,smoking,current,moderate,5873
+,.1374,See 1374.,other,smoking,current,moderate,0
+1372.,,Trivial smoker - < 1 cig/day,other,smoking,current,trivial,1515
+,XE0oi,Trivial cigarette smoker (less than one cigarette/day),other,smoking,current,trivial,1387
+,Ub1tR,Occasional cigarette smoker,other,smoking,current,trivial,519
+,1372.,(Trivial smoker - < 1 cig/day) or (occasional smoker),other,smoking,current,trivial,513
+,.1372,See XE0oi,other,smoking,current,trivial,0
+E251.,E251.,Tobacco dependence,other,smoking,current,very_heavy,490
+,1376.,Very heavy cigarette smoker (40+ cigs/day),other,smoking,current,very_heavy,388
+1376.,,Very heavy smoker - 40+cigs/d,other,smoking,current,very_heavy,305
+,XE1b4,Tobacco dependence (& [dependent smoker]),other,smoking,current,very_heavy,7
+,.1376,See 1376.,other,smoking,current,very_heavy,0
+,.E46.,See XE1b4,other,smoking,current,very_heavy,0
+,137R.,Smoker,other,smoking,current,,96114
+137P.,XE0oq,Cigarette smoker,other,smoking,current,,88118
+137R.,,Current smoker,other,smoking,current,,23324
+137G.,137G.,Trying to give up smoking,other,smoking,current,,8303
+137J.,137J.,Cigar smoker,other,smoking,current,,4402
+137d.,XaIkY,Not interested in stopping smoking,other,smoking,current,,3710
+137c.,XaIkW,Thinking about stopping smoking,other,smoking,current,,3254
+137M.,137M.,Rolls own cigarettes,other,smoking,current,,2761
+137H.,137H.,Pipe smoker,other,smoking,current,,2357
+137Q.,XE0or,Smoking started,other,smoking,current,,1866
+137b.,XaIkX,Ready to stop smoking,other,smoking,current,,1699
+137E.,137E.,Tobacco consumption unknown,other,smoking,current,,1056
+137C.,137C.,Keeps trying to stop smoking,other,smoking,current,,826
+,XaLQh,Wants to stop smoking,other,smoking,current,,810
+137V.,XaIIu,Smoking reduced,other,smoking,current,,318
+137m.,XaWNE,Failed attempt to stop smoking,other,smoking,current,,221
+,137P.,Smoker (& cigarette),other,smoking,current,,170
+137e.,XaBSp,Smoking restarted,other,smoking,current,,148
+,Ub1tS,Light cigarette smoker,other,smoking,current,,122
+,Ub1tT,Moderate cigarette smoker,other,smoking,current,,120
+137f.,XaItg,Reason for restarting smoking,other,smoking,current,,108
+,Ub1tU,Heavy cigarette smoker,other,smoking,current,,87
+,Ub1tV,Very heavy cigarette smoker,other,smoking,current,,12
+137D.,137D.,Admitted tobacco cons untrue ?,other,smoking,current,,10
+,XE0oo,Tobacco smoking consumption unknown,other,smoking,current,,9
+137W.,Ub0pT,Chews tobacco,other,smoking,current,,8
+,137Q.,Smoking: [started] or [restarted],other,smoking,current,,4
+,Ub1tW,Chain smoker,other,smoking,current,,1
+,Ub0pY,Chews products containing tobacco,other,smoking,current,,1
+,Ub0pX,Chews fine cut tobacco,other,smoking,current,,0
+,Ub0pW,Chews loose leaf tobacco,other,smoking,current,,0
+,Ub0pU,Chews plug tobacco,other,smoking,current,,0
+,Ub0pV,Chews twist tobacco,other,smoking,current,,0
+,.137C,See 137C.,other,smoking,current,,0
+,.137D,See 137D.,other,smoking,current,,0
+,.137E,See 137E.,other,smoking,current,,0
+,.137G,See 137G.,other,smoking,current,,0
+,.137H,See 137H.,other,smoking,current,,0
+,.137J,See 137J.,other,smoking,current,,0
+,.137M,See 137M.,other,smoking,current,,0
+,.137R,See 137R.,other,smoking,current,,0
+,Ua28x,See 137R.,other,smoking,current,,0
+,.137W,See Ub0pT,other,smoking,current,,0
+,137W.,See Ub0pT,other,smoking,current,,0
+,.137P,See XE0oq,other,smoking,current,,0
+,.137Q,See XE0or,other,smoking,current,,0
+,.137e,See XaBSp,other,smoking,current,,0
+,137e.,See XaBSp,other,smoking,current,,0
+,.137V,See XaIIu,other,smoking,current,,0
+,137V.,See XaIIu,other,smoking,current,,0
+,.137c,See XaIkW,other,smoking,current,,0
+,137c.,See XaIkW,other,smoking,current,,0
+,.137b,See XaIkX,other,smoking,current,,0
+,137b.,See XaIkX,other,smoking,current,,0
+,.137d,See XaIkY,other,smoking,current,,0
+,137d.,See XaIkY,other,smoking,current,,0
+,.137f,See XaItg,other,smoking,current,,0
+,137f.,See XaItg,other,smoking,current,,0
+,137m.,See XaWNE,other,smoking,current,,0
+,XaXP9,Smoker before confirmation of pregnancy,other,smoking,current,,0
+137A.,137A.,Ex-heavy smoker (20-39/day),other,smoking,former,heavy,13115
+,XE0om,Ex-heavy cigarette smoker (20-39/day),other,smoking,former,heavy,517
+,.137A,See XE0om,other,smoking,former,heavy,0
+1378.,1378.,Ex-light smoker (1-9/day),other,smoking,former,light,14900
+,XE0ok,Ex-light cigarette smoker (1-9/day),other,smoking,former,light,496
+,.1378,See XE0ok,other,smoking,former,light,0
+1379.,1379.,Ex-moderate smoker (10-19/day),other,smoking,former,moderate,24366
+,XE0ol,Ex-moderate cigarette smoker (10-19/day),other,smoking,former,moderate,740
+,.1379,See XE0ol,other,smoking,former,moderate,0
+1377.,1377.,Ex-trivial smoker (<1/day),other,smoking,former,trivial,5740
+,XE0oj,Ex-trivial cigarette smoker (<1/day),other,smoking,former,trivial,150
+,.1377,See XE0oj,other,smoking,former,trivial,0
+137B.,137B.,Ex-very heavy smoker (40+/day),other,smoking,former,very_heavy,2295
+,XE0on,Ex-very heavy cigarette smoker (40+/day),other,smoking,former,very_heavy,101
+,.137B,See XE0on,other,smoking,former,very_heavy,0
+,Ub1na,Ex-smoker,other,smoking,former,,327389
+137S.,,Ex smoker,other,smoking,former,,152125
+137j.,Xa1bv,Ex-cigarette smoker,other,smoking,former,,37301
+137K.,137K.,Stopped smoking,other,smoking,former,,34400
+137T.,137T.,Date ceased smoking,other,smoking,former,,15743
+137F.,137F.,Ex-smoker - amount unknown,other,smoking,former,,14362
+,137O.,Ex-cigar smoker,other,smoking,former,,926
+,137N.,Ex-pipe smoker,other,smoking,former,,606
+137O.,,Ex cigar smoker,other,smoking,former,,221
+137N.,,Ex pipe smoker,other,smoking,former,,116
+137K0,XaQzw,Recently stopped smoking,other,smoking,former,,80
+137l.,XaQ8V,Ex roll-up cigarette smoker,other,smoking,former,,55
+,XE0op,Ex-cigarette smoker amount unknown,other,smoking,former,,23
+9km..,,Ex-smoker annual review - enhanced services administration,other,smoking,former,,23
+E2513,E2513,Tobacco dependence in remission,other,smoking,former,,15
+,XaQUI,Ex-smoker annual review,other,smoking,former,,13
+,XaXP8,Stopped smoking before pregnancy,other,smoking,former,,1
+137i.,Ub0pS,Ex-tobacco chewer,other,smoking,former,,0
+,.137F,See 137F.,other,smoking,former,,0
+,.137K,See 137K.,other,smoking,former,,0
+,.137N,See 137N.,other,smoking,former,,0
+,.137O,See 137O.,other,smoking,former,,0
+,.137T,See 137T.,other,smoking,former,,0
+,.137i,See Ub0pS,other,smoking,former,,0
+,137i.,See Ub0pS,other,smoking,former,,0
+,.137S,See Ub1na,other,smoking,former,,0
+,137S.,See Ub1na,other,smoking,former,,0
+,.137j,See Xa1bv,other,smoking,former,,0
+,137j.,See Xa1bv,other,smoking,former,,0
+,.137l,See XaQ8V,other,smoking,former,,0
+,137l.,See XaQ8V,other,smoking,former,,0
+,.9km.,See XaQUI,other,smoking,former,,0
+,9km..,See XaQUI,other,smoking,former,,0
+,137K0,See XaQzw,other,smoking,former,,0
+,XaXP6,Stopped smoking during pregnancy,other,smoking,former,,0
+1371.,XE0oh,Never smoked tobacco,other,smoking,never,,935159
+,Ub0oq,Non-smoker,other,smoking,never,,52527
+,1371.,Non-smoker (& [never smoked tobacco]),other,smoking,never,,1975
+,.1371,See 1371.,other,smoking,never,,0
+137L.,137L.,Current non-smoker,other,smoking,non,,96407
+13WK.,XaIn9,No smokers in the household,other,smoking,non,,2616
+9kn..,,Non-smoker annual review - enhanced services administration,other,smoking,non,,94
+,XaQUC,Non-smoker annual review,other,smoking,non,,16
+,.137L,See 137L.,other,smoking,non,,0
+,.13WL,See XaIn9,other,smoking,non,,0
+,13WK.,See XaIn9,other,smoking,non,,0
+,.9kn.,See XaQUC,other,smoking,non,,0
+,9kn..,See XaQUC,other,smoking,non,,0
+13WF4,13WF4,Passive smoking risk,other,smoking,passive,,1629
+137I.,137I.,Passive smoker,other,smoking,passive,,1030
+137I0,Ub0pf,Exposed to tobacco smoke at home,other,smoking,passive,,253
+,Ub0pe,Exposed to tobacco smoke at work,other,smoking,passive,,5
+,Ub0pg,Exposed to tobacco smoke in public places,other,smoking,passive,,5
+,.137I,See 137I.,other,smoking,passive,,0
+,137I0,See Ub0pf,other,smoking,passive,,0

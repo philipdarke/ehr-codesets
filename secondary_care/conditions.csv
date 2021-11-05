@@ -1,0 +1,88 @@
+icd9,icd10,desc,variable,value,level,N
+-,O244,O24.4 Diabetes mellitus arising in pregnancy,diabetes,diagnosis,gestational,221
+-,E129,E12.9 Without complications,diabetes,diagnosis,secondary,2
+-,E121,E12.1 With ketoacidosis,diabetes,diagnosis,secondary,1
+-,E128,E12.8 With unspecified complications,diabetes,diagnosis,secondary,1
+-,E12,E12 Malnutrition-related diabetes mellitus,diabetes,diagnosis,secondary,0
+-,E120,E12.0 With coma,diabetes,diagnosis,secondary,0
+-,E122,E12.2 With renal complications,diabetes,diagnosis,secondary,0
+-,E123,E12.3 With ophthalmic complications,diabetes,diagnosis,secondary,0
+-,E124,E12.4 With neurological complications,diabetes,diagnosis,secondary,0
+-,E125,E12.5 With peripheral circulatory complications,diabetes,diagnosis,secondary,0
+-,E126,E12.6 With other specified complications,diabetes,diagnosis,secondary,0
+-,E127,E12.7 With multiple complications,diabetes,diagnosis,secondary,0
+-,O242,O24.2 Pre-existing malnutrition-related diabetes mellitus,diabetes,diagnosis,secondary,0
+-,E109,E10.9 Without complications,diabetes,diagnosis,type1,3808
+-,E103,E10.3 With ophthalmic complications,diabetes,diagnosis,type1,711
+-,E101,E10.1 With ketoacidosis,diabetes,diagnosis,type1,375
+-,E104,E10.4 With neurological complications,diabetes,diagnosis,type1,253
+-,E105,E10.5 With peripheral circulatory complications,diabetes,diagnosis,type1,142
+-,E102,E10.2 With renal complications,diabetes,diagnosis,type1,130
+-,O240,"O24.0 Pre-existing diabetes mellitus, insulin-dependent",diabetes,diagnosis,type1,69
+-,E106,E10.6 With other specified complications,diabetes,diagnosis,type1,53
+-,E100,E10.0 With coma,diabetes,diagnosis,type1,51
+-,E108,E10.8 With unspecified complications,diabetes,diagnosis,type1,51
+-,E107,E10.7 With multiple complications,diabetes,diagnosis,type1,16
+-,E10,E10 Insulin-dependent diabetes mellitus,diabetes,diagnosis,type1,0
+-,E119,E11.9 Without complications,diabetes,diagnosis,type2,28844
+-,E113,E11.3 With ophthalmic complications,diabetes,diagnosis,type2,1857
+-,E114,E11.4 With neurological complications,diabetes,diagnosis,type2,814
+-,E115,E11.5 With peripheral circulatory complications,diabetes,diagnosis,type2,506
+-,E112,E11.2 With renal complications,diabetes,diagnosis,type2,392
+-,E111,E11.1 With ketoacidosis,diabetes,diagnosis,type2,220
+-,E116,E11.6 With other specified complications,diabetes,diagnosis,type2,153
+-,E110,E11.0 With coma,diabetes,diagnosis,type2,104
+-,E118,E11.8 With unspecified complications,diabetes,diagnosis,type2,85
+-,O241,"O24.1 Pre-existing diabetes mellitus, noninsulin-dependent",diabetes,diagnosis,type2,14
+-,E117,E11.7 With multiple complications,diabetes,diagnosis,type2,10
+-,E11,E11 Non-insulin-dependent diabetes mellitus,diabetes,diagnosis,type2,0
+-,E149,E14.9 Without complications,diabetes,diagnosis,,3419
+-,E143,E14.3 With ophthalmic complications,diabetes,diagnosis,,389
+-,E139,E13.9 Without complications,diabetes,diagnosis,,271
+25009,-,25009 Diabetes mellitus without mention of compl. (adult/juvenile unspec.),diabetes,diagnosis,,102
+-,O249,"O24.9 Diabetes mellitus in pregnancy, unspecified",diabetes,diagnosis,,51
+-,E144,E14.4 With neurological complications,diabetes,diagnosis,,49
+25000,-,25000 Diabetes mellitus without mention of complication (adult-onset type),diabetes,diagnosis,,40
+-,E148,E14.8 With unspecified complications,diabetes,diagnosis,,35
+-,E141,E14.1 With ketoacidosis,diabetes,diagnosis,,34
+-,E142,E14.2 Withrenal complications,diabetes,diagnosis,,31
+-,E145,E14.5 With peripheral circulatory complications,diabetes,diagnosis,,27
+-,E146,E14.6 With other specified complications,diabetes,diagnosis,,25
+2500,-,2500 Diabetes mellitus without mention of complication,diabetes,diagnosis,,20
+2504,-,2504 Diabetes with ophthalmic manifestations,diabetes,diagnosis,,16
+25001,-,25001 Diabetes mellitus without mention of complication (juvenile type),diabetes,diagnosis,,15
+-,E133,E13.3 With ophthalmic complications,diabetes,diagnosis,,15
+-,E140,E14.0 With coma,diabetes,diagnosis,,14
+25019,-,25019 Diabetes with ketoacidosis (adult/juvenile unspec.),diabetes,diagnosis,,9
+-,E131,E13.1 With ketoacidosis,diabetes,diagnosis,,8
+2503,-,2503 Diabetes with renal manifestations,diabetes,diagnosis,,6
+25099,-,25099 Diabetes with unspecified complications (unspecified onset),diabetes,diagnosis,,6
+2505,-,2505 Diabetes with neurological manifestations,diabetes,diagnosis,,5
+2501,-,2501 Diabetes with ketoacidosis,diabetes,diagnosis,,3
+25011,-,25011 Diabetes with ketoacidosis (juvenile type),diabetes,diagnosis,,3
+-,E135,E13.5 With peripheral circulatory complications,diabetes,diagnosis,,3
+-,E136,E13.6 With other specified complications,diabetes,diagnosis,,3
+-,E138,E13.8 With unspecified complications,diabetes,diagnosis,,3
+-,E147,E14.7 With multiple complications,diabetes,diagnosis,,3
+25010,-,25010 Diabetes with ketoacidosis (adult-onset type),diabetes,diagnosis,,2
+-,E134,E13.4 With neurological complications,diabetes,diagnosis,,2
+-,O243,"O24.3 Pre-existing diabetes mellitus, unspecified",diabetes,diagnosis,,2
+25029,-,25029 Diabetes with coma (unspecified whether adult-onset or juvenile type),diabetes,diagnosis,,1
+2509,-,2509 Diabetes with unspecified complications,diabetes,diagnosis,,1
+6480,-,"6480 Diabetes mellitus in mother compl. pregnancy, childbirth, puerperium",diabetes,diagnosis,,1
+-,E132,E13.2 With renal complications,diabetes,diagnosis,,1
+-,E137,E13.7 With multiple complications,diabetes,diagnosis,,1
+250,-,250 Diabetes mellitus,diabetes,diagnosis,,0
+2502,-,2502 Diabetes with coma,diabetes,diagnosis,,0
+25020,-,25020 Diabetes with coma (adult-onset type),diabetes,diagnosis,,0
+25021,-,25021 Diabetes with coma (juvenile type),diabetes,diagnosis,,0
+2506,-,2506 Diabetes with peripheral circulatory disorders,diabetes,diagnosis,,0
+2507,-,2507 Diabetes with other specified manifestations,diabetes,diagnosis,,0
+25090,-,25090 Diabetes with unspecified complications (adult-onset type),diabetes,diagnosis,,0
+25091,-,25091 Diabetes with unspecified complications (juvenile type),diabetes,diagnosis,,0
+-,E13,E13 Other specified diabetes mellitus,diabetes,diagnosis,,0
+-,E130,E13.0 With coma,diabetes,diagnosis,,0
+-,E14,E14 Unspecified diabetes mellitus,diabetes,diagnosis,,0
+-,O24,O24 Diabetes mellitus in pregnancy,diabetes,diagnosis,,0
+-,Z833,Z83.3 Family history of diabetes mellitus,diabetes,family_history,,550
+V180,-,V180 Family history of diabetes mellitus,diabetes,family_history,,2

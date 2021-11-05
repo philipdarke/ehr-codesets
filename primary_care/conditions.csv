@@ -1,0 +1,1230 @@
+read_2,read_3,desc,type,variable,value,level,N
+,G33..,Angina,condition,angina,diagnosis,stable,9776
+662K0,662K0,Angina control - good,condition,angina,diagnosis,stable,7410
+G33..,,Angina pectoris,condition,angina,diagnosis,stable,4207
+662K.,662K.,Angina control,condition,angina,diagnosis,stable,1825
+G33z7,X2008,Stable angina,condition,angina,diagnosis,stable,852
+G33zz,G33z.,Angina pectoris NOS,condition,angina,diagnosis,stable,523
+G33z.,G33z.,Angina pectoris NOS,condition,angina,diagnosis,stable,502
+662K3,662K3,Angina control - worsening,condition,angina,diagnosis,stable,331
+662K1,662K1,Angina control - poor,condition,angina,diagnosis,stable,219
+662K2,662K2,Angina control - improving,condition,angina,diagnosis,stable,192
+,Xa7nH,Exercise-induced angina,condition,angina,diagnosis,stable,154
+662Kz,662Kz,Angina control NOS,condition,angina,diagnosis,stable,126
+G33z4,Ua1eH,Ischaemic chest pain,condition,angina,diagnosis,stable,69
+,X200B,Coronary spasm,condition,angina,diagnosis,stable,68
+G331.,G331.,Prinzmetal's angina,condition,angina,diagnosis,stable,56
+G33z6,X200A,New onset angina,condition,angina,diagnosis,stable,47
+G332.,,Coronary artery spasm,condition,angina,diagnosis,stable,40
+G33z3,,Angina on effort,condition,angina,diagnosis,stable,26
+G33z5,XaEXt,Post infarct angina,condition,angina,diagnosis,stable,17
+G330.,G330.,Angina decubitus,condition,angina,diagnosis,stable,8
+Gyu30,Gyu30,[X]Other forms of angina pectoris,condition,angina,diagnosis,stable,8
+G3300,G3300,Nocturnal angina,condition,angina,diagnosis,stable,5
+662K4,XaXew,Angina self management plan commenced,condition,angina,diagnosis,stable,4
+662K5,XaXex,Angina self management plan completed,condition,angina,diagnosis,stable,3
+G330z,G330z,Angina decubitus NOS,condition,angina,diagnosis,stable,0
+,.662K,See 662K.,condition,angina,diagnosis,stable,0
+,.G44.,See G33..,condition,angina,diagnosis,stable,0
+,G33zz,See G33z.,condition,angina,diagnosis,stable,0
+,G33z4,See Ua1eH,condition,angina,diagnosis,stable,0
+,.G444,See X2008,condition,angina,diagnosis,stable,0
+,G33z7,See X2008,condition,angina,diagnosis,stable,0
+,.G443,See X200A,condition,angina,diagnosis,stable,0
+,G33z6,See X200A,condition,angina,diagnosis,stable,0
+,G332.,See X200B,condition,angina,diagnosis,stable,0
+,G33z3,See Xa7nH,condition,angina,diagnosis,stable,0
+,.G442,See XaEXt,condition,angina,diagnosis,stable,0
+,G33z5,See XaEXt,condition,angina,diagnosis,stable,0
+,662K4,See XaXew,condition,angina,diagnosis,stable,0
+,662K5,See XaXex,condition,angina,diagnosis,stable,0
+G33z0,G33z0,Status anginosus,condition,angina,diagnosis,stable,0
+G33z1,G33z1,Stenocardia,condition,angina,diagnosis,stable,0
+G33z2,G33z2,Syncope anginosa,condition,angina,diagnosis,stable,0
+G3111,X2009,Unstable angina,condition,angina,diagnosis,unstable,916
+G3114,XE0Ui,Worsening angina,condition,angina,diagnosis,unstable,110
+G3112,X2007,Angina at rest,condition,angina,diagnosis,unstable,33
+,G311.,(Angina: [crescendo] or [unstable] or [at rest]) or (preinfarction syndrome) or (impending infarction),condition,angina,diagnosis,unstable,21
+G3113,XaFsG,Refractory angina,condition,angina,diagnosis,unstable,11
+,.G445,See X2007,condition,angina,diagnosis,unstable,0
+,G3112,See X2007,condition,angina,diagnosis,unstable,0
+,.G440,See X2009,condition,angina,diagnosis,unstable,0
+,G3111,See X2009,condition,angina,diagnosis,unstable,0
+,.G446,See XE0Ui,condition,angina,diagnosis,unstable,0
+,G3114,See XE0Ui,condition,angina,diagnosis,unstable,0
+,.G441,See XaFsG,condition,angina,diagnosis,unstable,0
+,G3113,See XaFsG,condition,angina,diagnosis,unstable,0
+14A5.,14A5.,H/O: angina pectoris,condition,angina,history,,518
+14AJ.,XaBL2,H/O: Angina in last year,condition,angina,history,,52
+,.14A5,See 14A5.,condition,angina,history,,0
+,.14AJ,See XaBL2,condition,angina,history,,0
+,14AJ.,See XaBL2,condition,angina,history,,0
+,X00SM,Bipolar disorder,condition,bipolar,diagnosis,,974
+Eu31z,Eu31z,"[X]Bipolar affective disorder, unspecified",condition,bipolar,diagnosis,,648
+Eu31.,,[X]Bipolar affective disorder,condition,bipolar,diagnosis,,366
+,X00SL,Hypomania,condition,bipolar,diagnosis,,287
+E116.,E116.,Mixed bipolar affective disorder,condition,bipolar,diagnosis,,246
+Eu317,Eu317,"[X]Bipolar affective disorder, currently in remission",condition,bipolar,diagnosis,,227
+E11z1,E11z1,Rebound mood swings,condition,bipolar,diagnosis,,198
+E117.,E117.,Unspecified bipolar affective disorder,condition,bipolar,diagnosis,,125
+E116z,E116z,"Mixed bipolar affective disorder, NOS",condition,bipolar,diagnosis,,115
+,E11..,Affective psychoses (& [bipolar] or [depressive] or [manic]),condition,bipolar,diagnosis,,106
+E110.,XE1Xz,"Manic disorder, single episode",condition,bipolar,diagnosis,,90
+E11z2,X00SU,Masked depression,condition,bipolar,diagnosis,,90
+Eu300,,[X]Hypomania,condition,bipolar,diagnosis,,83
+E1144,E1144,"Bipolar affective disorder, currently manic, severe, with psychosis",condition,bipolar,diagnosis,,73
+E11y.,E11y.,Other and unspecified manic-depressive psychoses,condition,bipolar,diagnosis,,72
+,E114.,"Bipolar affective disorder, current episode manic",condition,bipolar,diagnosis,,70
+,XaB95,Other manic-depressive psychos,condition,bipolar,diagnosis,,64
+E1160,E1160,"Mixed bipolar affective disorder, unspecified",condition,bipolar,diagnosis,,53
+E1166,E1166,"Mixed bipolar affective disorder, in full remission",condition,bipolar,diagnosis,,50
+,E115.,"Bipolar affective disorder, current episode depression",condition,bipolar,diagnosis,,48
+E11y0,E11y0,Unspecified manic-depressive psychoses,condition,bipolar,diagnosis,,46
+,X00SJ,Mania,condition,bipolar,diagnosis,,45
+,X00SN,Bipolar II disorder,condition,bipolar,diagnosis,,42
+E1134,E1134,"Recurrent major depressive episodes, severe, with psychosis",condition,bipolar,diagnosis,,40
+E117z,E117z,"Unspecified bipolar affective disorder, NOS",condition,bipolar,diagnosis,,40
+E1106,E1106,Single manic episode in full remission,condition,bipolar,diagnosis,,38
+,XaX54,"Recurrent major depressive episodes, severe, with psychosis, psychosis in remission",condition,bipolar,diagnosis,,37
+,Eu310,"Bipolar affective disorder, current episode hypomanic",condition,bipolar,diagnosis,,33
+E1176,E1176,"Unspecified bipolar affective disorder, in full remission",condition,bipolar,diagnosis,,32
+Eu30z,XE1ZW,"[X]Manic episode, unspecified",condition,bipolar,diagnosis,,32
+Eu310,,"[X]Bipolar affective disorder, current episode hypomanic",condition,bipolar,diagnosis,,30
+E11zz,E11zz,Other affective psychosis NOS,condition,bipolar,diagnosis,,29
+,E110.,"(Manic disorder, single episode) or (hypomanic psychoses)",condition,bipolar,diagnosis,,28
+E1146,E1146,"Bipolar affective disorder, currently manic, in full remission",condition,bipolar,diagnosis,,25
+Eu31y,XE1ZX,[X]Other bipolar affective disorders,condition,bipolar,diagnosis,,24
+E11y1,E11y1,Atypical manic disorder,condition,bipolar,diagnosis,,23
+,Eu316,"Bipolar affective disorder , current episode mixed",condition,bipolar,diagnosis,,21
+Eu30.,,[X]Manic episode,condition,bipolar,diagnosis,,21
+E1140,E1140,"Bipolar affective disorder, currently manic, unspecified",condition,bipolar,diagnosis,,18
+E1151,E1151,"Bipolar affective disorder, currently depressed, mild",condition,bipolar,diagnosis,,14
+E1152,E1152,"Bipolar affective disorder, currently depressed, moderate",condition,bipolar,diagnosis,,14
+E1162,E1162,"Mixed bipolar affective disorder, moderate",condition,bipolar,diagnosis,,14
+E11z.,E11z.,Other and unspecified affective psychoses,condition,bipolar,diagnosis,,14
+E1100,E1100,"Single manic episode, unspecified",condition,bipolar,diagnosis,,14
+,Eu30.,"[X] Manic episode (& [bipolar disorder, single manic episode])",condition,bipolar,diagnosis,,14
+Eu301,Eu301,[X]Mania without psychotic symptoms,condition,bipolar,diagnosis,,14
+E1101,E1101,"Single manic episode, mild",condition,bipolar,diagnosis,,13
+,XaY1Y,Bipolar I disorder,condition,bipolar,diagnosis,,11
+Eu313,Eu313,"[X]Bipolar affective disorder, current episode mild or moderate depression",condition,bipolar,diagnosis,,10
+E1156,E1156,"Bipolar affective disorder, currently depressed, in full remission",condition,bipolar,diagnosis,,9
+E1150,E1150,"Bipolar affective disorder, currently depressed, unspecified",condition,bipolar,diagnosis,,9
+E1141,E1141,"Bipolar affective disorder, currently manic, mild",condition,bipolar,diagnosis,,9
+E1111,E1111,"Recurrent manic episodes, mild",condition,bipolar,diagnosis,,9
+E1171,E1171,"Unspecified bipolar affective disorder, mild",condition,bipolar,diagnosis,,9
+Eu302,XE1ZV,[X]Mania with psychotic symptoms,condition,bipolar,diagnosis,,9
+E115z,E115z,"Bipolar affective disorder, currently depressed, NOS",condition,bipolar,diagnosis,,8
+E114.,,"Bipolar affective disorder, currently manic",condition,bipolar,diagnosis,,8
+E111.,E111.,Recurrent manic episodes,condition,bipolar,diagnosis,,8
+,Eu333,"[X] Depression with psychotic symptoms: [recurrent: (current episode severe) or (manic-depressive, depressed type) or (severe major episodes) or (severe episodes)] or [endogenous]",condition,bipolar,diagnosis,,8
+E11y2,E11y2,Atypical depressive disorder,condition,bipolar,diagnosis,,7
+E115.,,"Bipolar affective disorder, currently depressed",condition,bipolar,diagnosis,,7
+Eu32A,,"[X]Recurrent major depressive episodes, severe, with psychosis, psychosis in remission",condition,bipolar,diagnosis,,7
+E1154,E1154,"Bipolar affective disorder, currently depressed, severe, with psychosis",condition,bipolar,diagnosis,,6
+E1165,E1165,"Mixed bipolar affective disorder, in partial or unspecified remission",condition,bipolar,diagnosis,,6
+E1116,E1116,"Recurrent manic episodes, in full remission",condition,bipolar,diagnosis,,6
+E11z0,E11z0,Unspecified affective psychoses NOS,condition,bipolar,diagnosis,,6
+Eu312,Eu312,"[X]Bipolar affective disorder, current episode manic with psychotic symptoms",condition,bipolar,diagnosis,,6
+E1155,E1155,"Bipolar affective disorder, currently depressed, in partial or unspecified remission",condition,bipolar,diagnosis,,5
+E1161,E1161,"Mixed bipolar affective disorder, mild",condition,bipolar,diagnosis,,5
+E1103,E1103,"Single manic episode, severe without mention of psychosis",condition,bipolar,diagnosis,,5
+,Eu30z,"[X] Mania: [episode, unspecified] or [NOS]",condition,bipolar,diagnosis,,5
+E1142,E1142,"Bipolar affective disorder, currently manic, moderate",condition,bipolar,diagnosis,,4
+E1164,E1164,"Mixed bipolar affective disorder, severe, with psychosis",condition,bipolar,diagnosis,,4
+Eu314,Eu314,"[X]Bipolar affective disorder, current episode severe depression without psychotic symptoms",condition,bipolar,diagnosis,,4
+E11y3,E11y3,Other mixed manic-depressive psychoses,condition,bipolar,diagnosis,,3
+E1114,E1114,"Recurrent manic episodes, severe, with psychosis",condition,bipolar,diagnosis,,3
+E1170,E1170,"Unspecified bipolar affective disorder, unspecified",condition,bipolar,diagnosis,,3
+E1153,E1153,"Bipolar affective disorder, currently depressed, severe, without mention of psychosis",condition,bipolar,diagnosis,,2
+E1145,E1145,"Bipolar affective disorder, currently manic, in partial or unspecified remission",condition,bipolar,diagnosis,,2
+E1163,E1163,"Mixed bipolar affective disorder, severe, without mention of psychosis",condition,bipolar,diagnosis,,2
+Eu316,,"[X]Bipolar affective disorder, current episode mixed",condition,bipolar,diagnosis,,2
+Eu315,,"[X]Bipolar affective disorder, current episode severe depression with psychotic symptoms",condition,bipolar,diagnosis,,2
+E1143,E1143,"Bipolar affective disorder, currently manic, severe, without mention of psychosis",condition,bipolar,diagnosis,,1
+E11yz,E11yz,Other and unspecified manic-depressive psychoses NOS,condition,bipolar,diagnosis,,1
+E111z,E111z,Recurrent manic episode NOS,condition,bipolar,diagnosis,,1
+E1112,E1112,"Recurrent manic episodes, moderate",condition,bipolar,diagnosis,,1
+E1105,E1105,Single manic episode in partial or unspecified remission,condition,bipolar,diagnosis,,1
+E1102,E1102,"Single manic episode, moderate",condition,bipolar,diagnosis,,1
+E1104,E1104,"Single manic episode, severe, with psychosis",condition,bipolar,diagnosis,,1
+E1172,E1172,"Unspecified bipolar affective disorder, moderate",condition,bipolar,diagnosis,,1
+,Eu32y,[X] Depression: [other episodes] or [atypical] or [single episode masked NOS],condition,bipolar,diagnosis,,1
+,Eu3y0,[X] Mood affective disorders: [other single] or [mixed episode],condition,bipolar,diagnosis,,1
+Eu319,,[X]Bipolar affective disorder type II,condition,bipolar,diagnosis,,1
+Eu311,Eu311,"[X]Bipolar affective disorder, current episode manic without psychotic symptoms",condition,bipolar,diagnosis,,1
+E114z,E114z,"Bipolar affective disorder, currently manic, NOS",condition,bipolar,diagnosis,,0
+E110z,E110z,"Manic disorder, single episode NOS",condition,bipolar,diagnosis,,0
+,X00SK,Manic stupor,condition,bipolar,diagnosis,,0
+E1115,E1115,"Recurrent manic episodes, in partial or unspecified remission",condition,bipolar,diagnosis,,0
+E1113,E1113,"Recurrent manic episodes, severe without mention of psychosis",condition,bipolar,diagnosis,,0
+E1110,E1110,"Recurrent manic episodes, unspecified",condition,bipolar,diagnosis,,0
+,Eu315,See E1154,condition,bipolar,diagnosis,,0
+,Xa0Rd,See E11y2,condition,bipolar,diagnosis,,0
+,Eu300,See X00SL,condition,bipolar,diagnosis,,0
+,Eu31.,See X00SM,condition,bipolar,diagnosis,,0
+,Eu319,See X00SN,condition,bipolar,diagnosis,,0
+,E11z2,See X00SU,condition,bipolar,diagnosis,,0
+,.E22.,See XE1aQ,condition,bipolar,diagnosis,,0
+,.E221,See XE1aS,condition,bipolar,diagnosis,,0
+,.E22Z,See XaB95,condition,bipolar,diagnosis,,0
+,Eu32A,See XaX54,condition,bipolar,diagnosis,,0
+,Eu318,See XaY1Y,condition,bipolar,diagnosis,,0
+E1175,E1175,"Unspecified bipolar affective disorder, in partial or unspecified remission",condition,bipolar,diagnosis,,0
+E1174,E1174,"Unspecified bipolar affective disorder, severe, with psychosis",condition,bipolar,diagnosis,,0
+E1173,E1173,"Unspecified bipolar affective disorder, severe, without mention of psychosis",condition,bipolar,diagnosis,,0
+,Eu31y,[X] (Bipolar affective disorders: [bipolar II] or [other]) or (recurrent manic episodes),condition,bipolar,diagnosis,,0
+,Eu302,[X] (Mania with psychotic symptoms (& mood [congruent] or [incongruent])) or (manic stupor),condition,bipolar,diagnosis,,0
+Eu318,,[X]Bipolar affective disorder type I,condition,bipolar,diagnosis,,0
+Eu30y,Eu30y,[X]Other manic episodes,condition,bipolar,diagnosis,,0
+146D.,XaIx7,H/O: manic depressive disorder,condition,bipolar,history,,52
+ZV111,ZV111,[V]Personal history of affective disorder,condition,bipolar,history,,39
+,.146D,See XaIx7,condition,bipolar,history,,0
+,146D.,See XaIx7,condition,bipolar,history,,0
+212T.,XaLIa,"Psychosis, schizophrenia and bipolar affective disorder resolved",condition,bipolar,resolved,,190
+212V.,XaMwc,Bipolar affective disorder resolved,condition,bipolar,resolved,,10
+,.212V,See XaMwc,condition,bipolar,resolved,,0
+,212V.,See XaMwc,condition,bipolar,resolved,,0
+L1809,L1808,Gestational diabetes mellitus,condition,diabetes,diagnosis,gestational,257
+L1808,,Diabetes mellitus arising in pregnancy,condition,diabetes,diagnosis,gestational,71
+,.C2B.,See L1808,condition,diabetes,diagnosis,gestational,0
+,L1809,See L1808,condition,diabetes,diagnosis,gestational,0
+,X40Jm,See L1808,condition,diabetes,diagnosis,gestational,0
+,C11y0,Steroid-induced diabetes,condition,diabetes,diagnosis,secondary,83
+C10B.,,Diabetes mellitus induced by steroids,condition,diabetes,diagnosis,secondary,25
+C10G.,X40JB,Secondary pancreatic diabetes mellitus,condition,diabetes,diagnosis,secondary,22
+,C10B0,Steroid-induced diabetes mellitus without complication,condition,diabetes,diagnosis,secondary,7
+C10N.,X40JA,Secondary diabetes mellitus,condition,diabetes,diagnosis,secondary,6
+,XSETK,Drug-induced diabetes mellitus,condition,diabetes,diagnosis,secondary,3
+C10N0,XaJlR,Secondary diabetes mellitus without complication,condition,diabetes,diagnosis,secondary,1
+C10N1,XaMzI,Cystic fibrosis related diabetes mellitus,condition,diabetes,diagnosis,secondary,0
+C10H.,XaJUI,Diabetes mellitus induced by non-steroid drugs,condition,diabetes,diagnosis,secondary,0
+C10H0,XaJlM,Diabetes mellitus induced by non-steroid drugs without complication,condition,diabetes,diagnosis,secondary,0
+,X40JC,Secondary endocrine diabetes mellitus,condition,diabetes,diagnosis,secondary,0
+C10G0,XaJlL,Secondary pancreatic diabetes mellitus without complication,condition,diabetes,diagnosis,secondary,0
+,.C2G.,See X40JA,condition,diabetes,diagnosis,secondary,0
+,C10N.,See X40JA,condition,diabetes,diagnosis,secondary,0
+,C10G.,See X40JB,condition,diabetes,diagnosis,secondary,0
+,.C2G4,See XaJUI,condition,diabetes,diagnosis,secondary,0
+,C10H.,See XaJUI,condition,diabetes,diagnosis,secondary,0
+,C10G0,See XaJlL,condition,diabetes,diagnosis,secondary,0
+,C10H0,See XaJlM,condition,diabetes,diagnosis,secondary,0
+,C10N0,See XaJlR,condition,diabetes,diagnosis,secondary,0
+,C10N1,See XaMzI,condition,diabetes,diagnosis,secondary,0
+C10B0,,Steroid induced diabetes mellitus without complication,condition,diabetes,diagnosis,secondary,0
+,X40J4,Type I diabetes mellitus,condition,diabetes,diagnosis,type1,4719
+C10E.,,Type 1 diabetes mellitus,condition,diabetes,diagnosis,type1,720
+C108.,,Insulin dependent diabetes mellitus,condition,diabetes,diagnosis,type1,295
+,C1000,"Diabetes mellitus: [juvenile type, with no mention of complication] or [insulin dependent]",condition,diabetes,diagnosis,type1,55
+,XaELP,Type I diabetes mellitus without complication,condition,diabetes,diagnosis,type1,44
+,C1088,Type I diabetes mellitus - poor control,condition,diabetes,diagnosis,type1,30
+,C1089,Type I diabetes mellitus maturity onset,condition,diabetes,diagnosis,type1,26
+C10EQ,XaKyW,Type 1 diabetes mellitus with gastroparesis,condition,diabetes,diagnosis,type1,24
+C1089,,Insulin dependent diabetes maturity onset,condition,diabetes,diagnosis,type1,18
+C10EM,C1010,Type 1 diabetes mellitus with ketoacidosis,condition,diabetes,diagnosis,type1,16
+C10EK,XaIzM,Type 1 diabetes mellitus with persistent proteinuria,condition,diabetes,diagnosis,type1,15
+C10EL,XaIzN,Type 1 diabetes mellitus with persistent microalbuminuria,condition,diabetes,diagnosis,type1,14
+,Xa4g7,Unstable type I diabetes mellitus,condition,diabetes,diagnosis,type1,10
+,XaF04,Type I diabetes mellitus with nephropathy,condition,diabetes,diagnosis,type1,8
+C10ER,XaOPu,Latent autoimmune diabetes mellitus in adult,condition,diabetes,diagnosis,type1,7
+C10E7,,Type 1 diabetes mellitus with retinopathy,condition,diabetes,diagnosis,type1,7
+,C1085,Type I diabetes mellitus with ulcer,condition,diabetes,diagnosis,type1,7
+,C1080,Type I diabetes mellitus with renal complications,condition,diabetes,diagnosis,type1,5
+,C1087,Type I diabetes mellitus with retinopathy,condition,diabetes,diagnosis,type1,5
+C1088,,Insulin dependent diabetes mellitus - poor control,condition,diabetes,diagnosis,type1,4
+,XaEno,Type I diabetes mellitus with polyneuropathy,condition,diabetes,diagnosis,type1,4
+C10EP,XaJSr,Type 1 diabetes mellitus with exudative maculopathy,condition,diabetes,diagnosis,type1,3
+,XaFWG,Type I diabetes mellitus with hypoglycaemic coma,condition,diabetes,diagnosis,type1,3
+,C1081,Type I diabetes mellitus with ophthalmic complications,condition,diabetes,diagnosis,type1,3
+C10E8,,Type 1 diabetes mellitus - poor control,condition,diabetes,diagnosis,type1,2
+C10EH,,Type 1 diabetes mellitus with arthropathy,condition,diabetes,diagnosis,type1,2
+,XaFmL,Type I diabetes mellitus with arthropathy,condition,diabetes,diagnosis,type1,2
+C10EF,,Type 1 diabetes mellitus with diabetic cataract,condition,diabetes,diagnosis,type1,1
+C10EN,C1030,Type 1 diabetes mellitus with ketoacidotic coma,condition,diabetes,diagnosis,type1,1
+C10ED,,Type 1 diabetes mellitus with nephropathy,condition,diabetes,diagnosis,type1,1
+,XaFm8,Type I diabetes mellitus with diabetic cataract,condition,diabetes,diagnosis,type1,1
+,C1083,Type I diabetes mellitus with multiple complications,condition,diabetes,diagnosis,type1,1
+,XaFmM,Type I diabetes mellitus with neuropathic arthropathy,condition,diabetes,diagnosis,type1,1
+C108z,C108z,Unspecified diabetes mellitus with multiple complications,condition,diabetes,diagnosis,type1,1
+C108H,,Insulin dependent diabetes mellitus with arthropathy,condition,diabetes,diagnosis,type1,0
+C108F,,Insulin dependent diabetes mellitus with diabetic cataract,condition,diabetes,diagnosis,type1,0
+C1086,,Insulin dependent diabetes mellitus with gangrene,condition,diabetes,diagnosis,type1,0
+C108E,,Insulin dependent diabetes mellitus with hypoglycaemic coma,condition,diabetes,diagnosis,type1,0
+C108B,,Insulin dependent diabetes mellitus with mononeuropathy,condition,diabetes,diagnosis,type1,0
+C1083,,Insulin dependent diabetes mellitus with multiple complications,condition,diabetes,diagnosis,type1,0
+C108D,,Insulin dependent diabetes mellitus with nephropathy,condition,diabetes,diagnosis,type1,0
+C108J,,Insulin dependent diabetes mellitus with neuropathic arthropathy,condition,diabetes,diagnosis,type1,0
+C108G,,Insulin dependent diabetes mellitus with peripheral angiopathy,condition,diabetes,diagnosis,type1,0
+C108C,,Insulin dependent diabetes mellitus with polyneuropathy,condition,diabetes,diagnosis,type1,0
+C1087,,Insulin dependent diabetes mellitus with retinopathy,condition,diabetes,diagnosis,type1,0
+C1085,,Insulin dependent diabetes mellitus with ulcer,condition,diabetes,diagnosis,type1,0
+,X40JY,Insulin-dependent diabetes mellitus secretory diarrhoea syndrome,condition,diabetes,diagnosis,type1,0
+C1082,,Insulin-dependent diabetes mellitus with neurological complications,condition,diabetes,diagnosis,type1,0
+C1081,,Insulin-dependent diabetes mellitus with ophthalmic complications,condition,diabetes,diagnosis,type1,0
+C1080,,Insulin-dependent diabetes mellitus with renal complications,condition,diabetes,diagnosis,type1,0
+C108A,,Insulin-dependent diabetes without complication,condition,diabetes,diagnosis,type1,0
+C108y,C108y,Other specified diabetes mellitus with multiple complications,condition,diabetes,diagnosis,type1,0
+,C10E0,See C1080,condition,diabetes,diagnosis,type1,0
+,C10E1,See C1081,condition,diabetes,diagnosis,type1,0
+,C10E2,See C1082,condition,diabetes,diagnosis,type1,0
+,C10E3,See C1083,condition,diabetes,diagnosis,type1,0
+,C10E5,See C1085,condition,diabetes,diagnosis,type1,0
+,C10E6,See C1086,condition,diabetes,diagnosis,type1,0
+,C10E7,See C1087,condition,diabetes,diagnosis,type1,0
+,C10E8,See C1088,condition,diabetes,diagnosis,type1,0
+,C10E9,See C1089,condition,diabetes,diagnosis,type1,0
+,.C2C.,See X40J4,condition,diabetes,diagnosis,type1,0
+,C108.,See X40J4,condition,diabetes,diagnosis,type1,0
+,C10E.,See X40J4,condition,diabetes,diagnosis,type1,0
+,.C22.,See XE12C,condition,diabetes,diagnosis,type1,0
+,C1084,See Xa4g7,condition,diabetes,diagnosis,type1,0
+,C10E4,See Xa4g7,condition,diabetes,diagnosis,type1,0
+,C108A,See XaELP,condition,diabetes,diagnosis,type1,0
+,C10EA,See XaELP,condition,diabetes,diagnosis,type1,0
+,C108B,See XaEnn,condition,diabetes,diagnosis,type1,0
+,C10EB,See XaEnn,condition,diabetes,diagnosis,type1,0
+,C108C,See XaEno,condition,diabetes,diagnosis,type1,0
+,C10EC,See XaEno,condition,diabetes,diagnosis,type1,0
+,C108D,See XaF04,condition,diabetes,diagnosis,type1,0
+,C10ED,See XaF04,condition,diabetes,diagnosis,type1,0
+,C108E,See XaFWG,condition,diabetes,diagnosis,type1,0
+,C10EE,See XaFWG,condition,diabetes,diagnosis,type1,0
+,C108F,See XaFm8,condition,diabetes,diagnosis,type1,0
+,C10EF,See XaFm8,condition,diabetes,diagnosis,type1,0
+,C108G,See XaFmK,condition,diabetes,diagnosis,type1,0
+,C10EG,See XaFmK,condition,diabetes,diagnosis,type1,0
+,C108H,See XaFmL,condition,diabetes,diagnosis,type1,0
+,C10EH,See XaFmL,condition,diabetes,diagnosis,type1,0
+,C108J,See XaFmM,condition,diabetes,diagnosis,type1,0
+,C10EJ,See XaFmM,condition,diabetes,diagnosis,type1,0
+,C10EK,See XaIzM,condition,diabetes,diagnosis,type1,0
+,C10EL,See XaIzN,condition,diabetes,diagnosis,type1,0
+,C10EP,See XaJSr,condition,diabetes,diagnosis,type1,0
+,C10EQ,See XaKyW,condition,diabetes,diagnosis,type1,0
+,C10ER,See XaOPu,condition,diabetes,diagnosis,type1,0
+C10E9,,Type 1 diabetes mellitus maturity onset,condition,diabetes,diagnosis,type1,0
+C10E6,,Type 1 diabetes mellitus with gangrene,condition,diabetes,diagnosis,type1,0
+C10EE,,Type 1 diabetes mellitus with hypoglycaemic coma,condition,diabetes,diagnosis,type1,0
+C10EB,,Type 1 diabetes mellitus with mononeuropathy,condition,diabetes,diagnosis,type1,0
+C10E3,,Type 1 diabetes mellitus with multiple complications,condition,diabetes,diagnosis,type1,0
+C10E2,,Type 1 diabetes mellitus with neurological complications,condition,diabetes,diagnosis,type1,0
+C10EJ,,Type 1 diabetes mellitus with neuropathic arthropathy,condition,diabetes,diagnosis,type1,0
+C10E1,,Type 1 diabetes mellitus with ophthalmic complications,condition,diabetes,diagnosis,type1,0
+C10EG,,Type 1 diabetes mellitus with peripheral angiopathy,condition,diabetes,diagnosis,type1,0
+C10EC,,Type 1 diabetes mellitus with polyneuropathy,condition,diabetes,diagnosis,type1,0
+C10E0,,Type 1 diabetes mellitus with renal complications,condition,diabetes,diagnosis,type1,0
+C10E5,,Type 1 diabetes mellitus with ulcer,condition,diabetes,diagnosis,type1,0
+C10EA,,Type 1 diabetes mellitus without complication,condition,diabetes,diagnosis,type1,0
+,C1086,Type I diabetes mellitus with gangrene,condition,diabetes,diagnosis,type1,0
+,XaEnn,Type I diabetes mellitus with mononeuropathy,condition,diabetes,diagnosis,type1,0
+,C1082,Type I diabetes mellitus with neurological complications,condition,diabetes,diagnosis,type1,0
+,XaFmK,Type I diabetes mellitus with peripheral angiopathy,condition,diabetes,diagnosis,type1,0
+C1084,,Unstable insulin dependent diabetes mellitus,condition,diabetes,diagnosis,type1,0
+C10E4,,Unstable type 1 diabetes mellitus,condition,diabetes,diagnosis,type1,0
+,X40J5,Type II diabetes mellitus,condition,diabetes,diagnosis,type2,56358
+C10F.,,Type 2 diabetes mellitus,condition,diabetes,diagnosis,type2,19981
+C10FJ,X40J6,Insulin treated Type 2 diabetes mellitus,condition,diabetes,diagnosis,type2,1867
+C109.,,Non-insulin dependent diabetes mellitus,condition,diabetes,diagnosis,type2,1812
+C109J,X40J6,Insulin treated Type 2 diabetes mellitus,condition,diabetes,diagnosis,type2,1580
+,XaELQ,Type II diabetes mellitus without complication,condition,diabetes,diagnosis,type2,303
+,C1097,Type II diabetes mellitus - poor control,condition,diabetes,diagnosis,type2,243
+,C1001,"Diabetes mellitus: [adult onset, with no mention of complication] or [maturity onset] or [non-insulin dependent]",condition,diabetes,diagnosis,type2,192
+,XaIzR,Type II diabetes mellitus with persistent microalbuminuria,condition,diabetes,diagnosis,type2,188
+,X40JE,Metabolic syndrome X,condition,diabetes,diagnosis,type2,122
+,XaIzQ,Type II diabetes mellitus with persistent proteinuria,condition,diabetes,diagnosis,type2,74
+C10FM,,Type 2 diabetes mellitus with persistent microalbuminuria,condition,diabetes,diagnosis,type2,71
+,C1094,Type II diabetes mellitus with ulcer,condition,diabetes,diagnosis,type2,32
+,C1090,Type II diabetes mellitus with renal complications,condition,diabetes,diagnosis,type2,31
+C10FL,,Type 2 diabetes mellitus with persistent proteinuria,condition,diabetes,diagnosis,type2,28
+,XaF05,Type II diabetes mellitus with nephropathy,condition,diabetes,diagnosis,type2,24
+,C1096,Type II diabetes mellitus with retinopathy,condition,diabetes,diagnosis,type2,18
+C10F7,,Type 2 diabetes mellitus - poor control,condition,diabetes,diagnosis,type2,16
+C10FC,,Type 2 diabetes mellitus with nephropathy,condition,diabetes,diagnosis,type2,13
+,C1091,Type II diabetes mellitus with ophthalmic complications,condition,diabetes,diagnosis,type2,13
+,C1093,Type II diabetes mellitus with multiple complications,condition,diabetes,diagnosis,type2,12
+C1097,,Non-insulin dependent diabetes mellitus - poor control,condition,diabetes,diagnosis,type2,11
+C10F6,,Type 2 diabetes mellitus with retinopathy,condition,diabetes,diagnosis,type2,10
+C10F9,,Type 2 diabetes mellitus without complication,condition,diabetes,diagnosis,type2,10
+,XaFmA,Type II diabetes mellitus with diabetic cataract,condition,diabetes,diagnosis,type2,7
+,C1092,Type II diabetes mellitus with neurological complications,condition,diabetes,diagnosis,type2,7
+C10FR,,Type 2 diabetes mellitus with gastroparesis,condition,diabetes,diagnosis,type2,6
+C10FN,C1011,Type 2 diabetes mellitus with ketoacidosis,condition,diabetes,diagnosis,type2,6
+,XaKyX,Type II diabetes mellitus with gastroparesis,condition,diabetes,diagnosis,type2,6
+,XaFn9,Type II diabetes mellitus with neuropathic arthropathy,condition,diabetes,diagnosis,type2,6
+,XaEnq,Type II diabetes mellitus with polyneuropathy,condition,diabetes,diagnosis,type2,6
+C1099,,Non-insulin-dependent diabetes mellitus without complication,condition,diabetes,diagnosis,type2,5
+,C109.,See X40J5,condition,diabetes,diagnosis,type2,5
+C10FE,,Type 2 diabetes mellitus with diabetic cataract,condition,diabetes,diagnosis,type2,5
+C10FK,,Hyperosmolar non-ketotic state in type 2 diabetes mellitus,condition,diabetes,diagnosis,type2,4
+C109K,,Hyperosmolar non-ketotic state in type 2 diabetes mellitus,condition,diabetes,diagnosis,type2,3
+C10FB,,Type 2 diabetes mellitus with polyneuropathy,condition,diabetes,diagnosis,type2,3
+,XaJQp,Type II diabetes mellitus with exudative maculopathy,condition,diabetes,diagnosis,type2,3
+,C1095,Type II diabetes mellitus with gangrene,condition,diabetes,diagnosis,type2,3
+,XaFWI,Type II diabetes mellitus with hypoglycaemic coma,condition,diabetes,diagnosis,type2,3
+,XaIrf,Hyperosmolar non-ketotic state in type II diabetes mellitus,condition,diabetes,diagnosis,type2,2
+C10FQ,,Type 2 diabetes mellitus with exudative maculopathy,condition,diabetes,diagnosis,type2,2
+C10FH,,Type 2 diabetes mellitus with neuropathic arthropathy,condition,diabetes,diagnosis,type2,2
+C10FF,,Type 2 diabetes mellitus with peripheral angiopathy,condition,diabetes,diagnosis,type2,2
+,XaEnp,Type II diabetes mellitus with mononeuropathy,condition,diabetes,diagnosis,type2,2
+,XaFn7,Type II diabetes mellitus with peripheral angiopathy,condition,diabetes,diagnosis,type2,2
+C10FS,XaOPt,Maternally inherited diabetes mellitus,condition,diabetes,diagnosis,type2,1
+C109E,,Non-insulin dependent diabetes mellitus with diabetic cataract,condition,diabetes,diagnosis,type2,1
+C109C,,Non-insulin dependent diabetes mellitus with nephropathy,condition,diabetes,diagnosis,type2,1
+C109F,,Non-insulin-dependent diabetes mellitus with peripheral angiopathy,condition,diabetes,diagnosis,type2,1
+C10F8,,Reaven's syndrome,condition,diabetes,diagnosis,type2,1
+C10F0,,Type 2 diabetes mellitus with renal complications,condition,diabetes,diagnosis,type2,1
+,XaFn8,Type II diabetes mellitus with arthropathy,condition,diabetes,diagnosis,type2,1
+C109G,,Non-insulin dependent diabetes mellitus with arthropathy,condition,diabetes,diagnosis,type2,0
+C1095,,Non-insulin dependent diabetes mellitus with gangrene,condition,diabetes,diagnosis,type2,0
+C109D,,Non-insulin dependent diabetes mellitus with hypoglycaemic coma,condition,diabetes,diagnosis,type2,0
+C109A,,Non-insulin dependent diabetes mellitus with mononeuropathy,condition,diabetes,diagnosis,type2,0
+C109H,,Non-insulin dependent diabetes mellitus with neuropathic arthropathy,condition,diabetes,diagnosis,type2,0
+C109B,,Non-insulin dependent diabetes mellitus with polyneuropathy,condition,diabetes,diagnosis,type2,0
+C1094,,Non-insulin dependent diabetes mellitus with ulcer,condition,diabetes,diagnosis,type2,0
+C1093,,Non-insulin-dependent diabetes mellitus with multiple complications,condition,diabetes,diagnosis,type2,0
+C1092,,Non-insulin-dependent diabetes mellitus with neurological complications,condition,diabetes,diagnosis,type2,0
+C1091,,Non-insulin-dependent diabetes mellitus with ophthalmic complications,condition,diabetes,diagnosis,type2,0
+C1090,,Non-insulin-dependent diabetes mellitus with renal complications,condition,diabetes,diagnosis,type2,0
+C1096,,Non-insulin-dependent diabetes mellitus with retinopathy,condition,diabetes,diagnosis,type2,0
+C1098,,Reaven's syndrome,condition,diabetes,diagnosis,type2,0
+,C10F0,See C1090,condition,diabetes,diagnosis,type2,0
+,C10F1,See C1091,condition,diabetes,diagnosis,type2,0
+,C10F2,See C1092,condition,diabetes,diagnosis,type2,0
+,C10F3,See C1093,condition,diabetes,diagnosis,type2,0
+,C10F4,See C1094,condition,diabetes,diagnosis,type2,0
+,C10F5,See C1095,condition,diabetes,diagnosis,type2,0
+,C10F6,See C1096,condition,diabetes,diagnosis,type2,0
+,C10F7,See C1097,condition,diabetes,diagnosis,type2,0
+,.C2D.,See X40J5,condition,diabetes,diagnosis,type2,0
+,C10F.,See X40J5,condition,diabetes,diagnosis,type2,0
+,.C2A.,See X40J6,condition,diabetes,diagnosis,type2,0
+,C109J,See X40J6,condition,diabetes,diagnosis,type2,0
+,C10FJ,See X40J6,condition,diabetes,diagnosis,type2,0
+,C1098,See X40JE,condition,diabetes,diagnosis,type2,0
+,C10F8,See X40JE,condition,diabetes,diagnosis,type2,0
+,C1A0.,See X40JE,condition,diabetes,diagnosis,type2,0
+,.C21.,See XE12A,condition,diabetes,diagnosis,type2,0
+,C1099,See XaELQ,condition,diabetes,diagnosis,type2,0
+,C10F9,See XaELQ,condition,diabetes,diagnosis,type2,0
+,C109A,See XaEnp,condition,diabetes,diagnosis,type2,0
+,C10FA,See XaEnp,condition,diabetes,diagnosis,type2,0
+,C109B,See XaEnq,condition,diabetes,diagnosis,type2,0
+,C10FB,See XaEnq,condition,diabetes,diagnosis,type2,0
+,C109C,See XaF05,condition,diabetes,diagnosis,type2,0
+,C10FC,See XaF05,condition,diabetes,diagnosis,type2,0
+,C109D,See XaFWI,condition,diabetes,diagnosis,type2,0
+,C10FD,See XaFWI,condition,diabetes,diagnosis,type2,0
+,C109E,See XaFmA,condition,diabetes,diagnosis,type2,0
+,C10FE,See XaFmA,condition,diabetes,diagnosis,type2,0
+,C109F,See XaFn7,condition,diabetes,diagnosis,type2,0
+,C10FF,See XaFn7,condition,diabetes,diagnosis,type2,0
+,C109G,See XaFn8,condition,diabetes,diagnosis,type2,0
+,C10FG,See XaFn8,condition,diabetes,diagnosis,type2,0
+,C109H,See XaFn9,condition,diabetes,diagnosis,type2,0
+,C10FH,See XaFn9,condition,diabetes,diagnosis,type2,0
+,C109K,See XaIrf,condition,diabetes,diagnosis,type2,0
+,C10FK,See XaIrf,condition,diabetes,diagnosis,type2,0
+,C10FL,See XaIzQ,condition,diabetes,diagnosis,type2,0
+,C10FM,See XaIzR,condition,diabetes,diagnosis,type2,0
+,C10FQ,See XaJQp,condition,diabetes,diagnosis,type2,0
+,C10FR,See XaKyX,condition,diabetes,diagnosis,type2,0
+,C10FS,See XaOPt,condition,diabetes,diagnosis,type2,0
+C10FG,,Type 2 diabetes mellitus with arthropathy,condition,diabetes,diagnosis,type2,0
+C10F5,,Type 2 diabetes mellitus with gangrene,condition,diabetes,diagnosis,type2,0
+C10FD,,Type 2 diabetes mellitus with hypoglycaemic coma,condition,diabetes,diagnosis,type2,0
+C10FP,,Type 2 diabetes mellitus with ketoacidotic coma,condition,diabetes,diagnosis,type2,0
+C10FA,,Type 2 diabetes mellitus with mononeuropathy,condition,diabetes,diagnosis,type2,0
+C10F3,,Type 2 diabetes mellitus with multiple complications,condition,diabetes,diagnosis,type2,0
+C10F2,,Type 2 diabetes mellitus with neurological complications,condition,diabetes,diagnosis,type2,0
+C10F1,,Type 2 diabetes mellitus with ophthalmic complications,condition,diabetes,diagnosis,type2,0
+C10F4,,Type 2 diabetes mellitus with ulcer,condition,diabetes,diagnosis,type2,0
+,C1031,Type II diabetes mellitus with ketoacidotic coma,condition,diabetes,diagnosis,type2,0
+C10..,C10..,Diabetes mellitus,condition,diabetes,diagnosis,,19051
+,X40Jc,Poor glycaemic control,condition,diabetes,diagnosis,,102
+,XSETH,Maturity onset diabetes mellitus in young,condition,diabetes,diagnosis,,32
+,X40Je,Acute hyperglycaemia,condition,diabetes,diagnosis,,6
+,XE12M,Diabetes with other complications,condition,diabetes,diagnosis,,4
+C102.,C102.,Diabetes mellitus with hyperosmolar coma,condition,diabetes,diagnosis,,3
+,XE12A,Diabetes mellitus: [adult onset] or [noninsulin dependent],condition,diabetes,diagnosis,,2
+,XaCJ2,Diabetic hyperosmolar non-ketotic state,condition,diabetes,diagnosis,,2
+,X40Jb,Diabetic severe hyperglycaemia,condition,diabetes,diagnosis,,2
+,XE128,Diabetes mellitus (& [ketoacidosis]),condition,diabetes,diagnosis,,1
+,X40Ja,Abnormal metabolic state in diabetes mellitus,condition,diabetes,diagnosis,,0
+,X40JO,Congenital lipoatrophic diabetes,condition,diabetes,diagnosis,,0
+,XSETp,Diabetes mellitus due to insulin receptor antibodies,condition,diabetes,diagnosis,,0
+,XE12C,Diabetes mellitus: [juvenile] or [insulin dependent],condition,diabetes,diagnosis,,0
+,X40JZ,Diabetes-deafness syndrome maternally transmitted,condition,diabetes,diagnosis,,0
+,X40JG,Genetic syndromes of diabetes mellitus,condition,diabetes,diagnosis,,0
+,X40JS,Hyperproinsulinemia,condition,diabetes,diagnosis,,0
+,Cyu2.,See C10..,condition,diabetes,diagnosis,,0
+,X40JM,See X40JO,condition,diabetes,diagnosis,,0
+,.C2..,See XE128,condition,diabetes,diagnosis,,0
+,.C21.,See XE12A,condition,diabetes,diagnosis,,0
+,.C22.,See XE12C,condition,diabetes,diagnosis,,0
+,.C2Z.,See XE12M,condition,diabetes,diagnosis,,0
+,.C2E.,See XSETH,condition,diabetes,diagnosis,,0
+,.C2G2,See XSETp,condition,diabetes,diagnosis,,0
+1252.,1252.,FH: Diabetes mellitus,condition,diabetes,family_history,,39231
+ZV180,ZV180,[V]Family history of diabetes mellitus,condition,diabetes,family_history,,3563
+1253.,XaKYz,FH: Diabetes mellitus in first degree relative,condition,diabetes,family_history,,3470
+ZV198,ZV180,[V]Family history of diabetes mellitus,condition,diabetes,family_history,,3410
+,XaVw4,Family history of diabetes mellitus type II,condition,diabetes,family_history,,1095
+12520,XaVw3,Family history of diabetes mellitus type 1,condition,diabetes,family_history,,517
+12521,,Family history of diabetes mellitus type 2,condition,diabetes,family_history,,56
+,.1252,See 1252.,condition,diabetes,family_history,,0
+,.1253,See XaKYz,condition,diabetes,family_history,,0
+,1253.,See XaKYz,condition,diabetes,family_history,,0
+,12520,See XaVw3,condition,diabetes,family_history,,0
+,12521,See XaVw4,condition,diabetes,family_history,,0
+,ZV198,See ZV180,condition,diabetes,family_history,,0
+C10P.,Xaagd,Diabetes mellitus in remission,condition,diabetes,remission,,13
+C10P1,Xaagf,Type II diabetes mellitus in remission,condition,diabetes,remission,,7
+,C10P.,See Xaagd,condition,diabetes,remission,,0
+,C10P0,See Xaage,condition,diabetes,remission,,0
+,C10P1,See Xaagf,condition,diabetes,remission,,0
+C10P0,Xaage,Type I diabetes mellitus in remission,condition,diabetes,remission,,0
+21263,XaFsp,Diabetes resolved,condition,diabetes,resolved,,366
+212H.,XaFsp,Diabetes resolved,condition,diabetes,resolved,,365
+,.212H,See XaFsp,condition,diabetes,resolved,,0
+,21263,See XaFsp,condition,diabetes,resolved,,0
+,212H.,See XaFsp,condition,diabetes,resolved,,0
+G20..,XE0Uc,Essential hypertension,condition,hypertension,diagnosis,,175195
+G2...,G2...,Hypertensive disease,condition,hypertension,diagnosis,,47097
+,XE0Ub,Hypertension,condition,hypertension,diagnosis,,15894
+G20z.,XE0Ud,Essential hypertension NOS,condition,hypertension,diagnosis,,7906
+,XM02V,Raised blood pressure,condition,hypertension,diagnosis,,2705
+G2z..,G2z..,Hypertensive disease NOS,condition,hypertension,diagnosis,,2152
+G201.,G201.,Benign essential hypertension,condition,hypertension,diagnosis,,1887
+,XM09K,Raised blood pressure reading,condition,hypertension,diagnosis,,927
+G25..,XaZWm,Stage 1 hypertension (NICE - National Institute for Health and Clinical Excellence 2011),condition,hypertension,diagnosis,,403
+G202.,G202.,Systolic hypertension,condition,hypertension,diagnosis,,321
+G24..,G24..,Secondary hypertension,condition,hypertension,diagnosis,,167
+G28..,XaZbz,Stage 2 hypertension (NICE - National Institute for Health and Clinical Excellence 2011),condition,hypertension,diagnosis,,163
+G250.,Xab9L,Stage 1 hypertension (NICE 2011) without evidence of end organ damage,condition,hypertension,diagnosis,,151
+,XM1C1,Elevated blood-pressure reading without diagnosis of hypertension,condition,hypertension,diagnosis,,126
+G21..,G21..,Hypertensive heart disease,condition,hypertension,diagnosis,,83
+G2y..,G2y..,Other specified hypertensive disease,condition,hypertension,diagnosis,,50
+G200.,G200.,Malignant essential hypertension,condition,hypertension,diagnosis,,49
+,G20..,High blood pressure (& [essential hypertension]),condition,hypertension,diagnosis,,41
+G22..,XE0Uf,Hypertensive renal disease,condition,hypertension,diagnosis,,40
+G203.,XSDSb,Diastolic hypertension,condition,hypertension,diagnosis,,33
+G22z.,XE0Ug,Hypertensive renal disease NOS,condition,hypertension,diagnosis,,29
+,G20z.,Hypertension NOS (& [essential]),condition,hypertension,diagnosis,,24
+,Xa0Cs,Labile hypertension,condition,hypertension,diagnosis,,22
+,Xa3fQ,Malignant hypertension,condition,hypertension,diagnosis,,15
+G251.,Xab9M,Stage 1 hypertension (NICE 2011) with evidence of end organ damage,condition,hypertension,diagnosis,,15
+G24zz,G24z.,Secondary hypertension NOS,condition,hypertension,diagnosis,,13
+G24z.,G24z.,Secondary hypertension NOS,condition,hypertension,diagnosis,,11
+Gyu2.,Gyu2.,[X]Hypertensive diseases,condition,hypertension,diagnosis,,9
+,XM1Qp,Cardiomegaly - hypertensive,condition,hypertension,diagnosis,,8
+G21zz,G21z.,Hypertensive heart disease NOS,condition,hypertension,diagnosis,,5
+,G22z.,(Renal hypertension) or (hypertensive renal disease NOS),condition,hypertension,diagnosis,,4
+G24z1,G24z1,Hypertension secondary to drug,condition,hypertension,diagnosis,,4
+G21z.,G21z.,Hypertensive heart disease NOS,condition,hypertension,diagnosis,,4
+G24z0,G24z0,Secondary renovascular hypertension NOS,condition,hypertension,diagnosis,,4
+G27..,XaZbT,Hypertension resistant to drug therapy,condition,hypertension,diagnosis,,3
+G21z0,,Hypertensive heart disease NOS without congestive cardic failure,condition,hypertension,diagnosis,,3
+,G21z0,Hypertensive: [cardiomegaly] or [heart disease NOS without congestive cardiac failure],condition,hypertension,diagnosis,,3
+G211.,G211.,Benign hypertensive heart disease,condition,hypertension,diagnosis,,2
+G221.,G221.,Benign hypertensive renal disease,condition,hypertension,diagnosis,,2
+,XE0Ue,Hypertensive heart disease NOS without congestive cardiac failure,condition,hypertension,diagnosis,,2
+G220.,G220.,Malignant hypertensive renal disease,condition,hypertension,diagnosis,,2
+,G240.,Malignant secondary hypertension,condition,hypertension,diagnosis,,2
+,Xa0kX,Renovascular hypertension,condition,hypertension,diagnosis,,2
+G241.,G241.,Secondary benign hypertension,condition,hypertension,diagnosis,,2
+G240z,G240z,Secondary malignant hypertension NOS,condition,hypertension,diagnosis,,2
+G26..,XaZWn,Severe hypertension (NICE - National Institute for Health and Clinical Excellence 2011),condition,hypertension,diagnosis,,2
+G23..,G23..,Hypertensive heart and renal disease,condition,hypertension,diagnosis,,1
+G21z1,G21z1,Hypertensive heart disease NOS with congestive cardiac failure,condition,hypertension,diagnosis,,1
+,G22..,Hypertensive renal disease (& [nephrosclerosis]),condition,hypertension,diagnosis,,1
+G222.,G222.,Hypertensive renal disease with renal failure,condition,hypertension,diagnosis,,1
+G230.,G230.,Malignant hypertensive heart and renal disease,condition,hypertension,diagnosis,,1
+G210.,G210.,Malignant hypertensive heart disease,condition,hypertension,diagnosis,,1
+G2410,G2410,Secondary benign renovascular hypertension,condition,hypertension,diagnosis,,1
+G240.,,Secondary malignant hypertension,condition,hypertension,diagnosis,,1
+G2400,G2400,Secondary malignant renovascular hypertension,condition,hypertension,diagnosis,,1
+Gyu21,Gyu21,[X]Hypertension secondary to other renal disorders,condition,hypertension,diagnosis,,1
+,XE0W8,(Hypertensive disease) or (hypertension),condition,hypertension,diagnosis,,0
+G231.,G231.,Benign hypertensive heart and renal disease,condition,hypertension,diagnosis,,0
+G211z,G211z,Benign hypertensive heart disease NOS,condition,hypertension,diagnosis,,0
+G2111,G2111,Benign hypertensive heart disease with congestive cardiac failure,condition,hypertension,diagnosis,,0
+G2110,G2110,Benign hypertensive heart disease without congestive cardiac failure,condition,hypertension,diagnosis,,0
+G244.,G244.,Hypertension secondary to endocrine disorders,condition,hypertension,diagnosis,,0
+G23z.,G23z.,Hypertensive heart and renal disease NOS,condition,hypertension,diagnosis,,0
+G232.,G232.,Hypertensive heart and renal disease with (congestive) heart failure,condition,hypertension,diagnosis,,0
+G234.,G234.,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,condition,hypertension,diagnosis,,0
+G233.,G233.,Hypertensive heart and renal disease with renal failure,condition,hypertension,diagnosis,,0
+G210z,G210z,Malignant hypertensive heart disease NOS,condition,hypertension,diagnosis,,0
+G2101,G2101,Malignant hypertensive heart disease with congestive cardiac failure,condition,hypertension,diagnosis,,0
+G2100,G2100,Malignant hypertensive heart disease without congestive cardiac failure,condition,hypertension,diagnosis,,0
+,XaZzo,Nocturnal hypertension,condition,hypertension,diagnosis,,0
+G241z,G241z,Secondary benign hypertension NOS,condition,hypertension,diagnosis,,0
+,.G32.,See G21..,condition,hypertension,diagnosis,,0
+,G21zz,See G21z.,condition,hypertension,diagnosis,,0
+,.G33.,See G22..,condition,hypertension,diagnosis,,0
+,.G34.,See G23..,condition,hypertension,diagnosis,,0
+,.G35.,See G24..,condition,hypertension,diagnosis,,0
+,G24zz,See G24z.,condition,hypertension,diagnosis,,0
+,.G3Z.,See G2z..,condition,hypertension,diagnosis,,0
+,.G31.,See XE0Uc,condition,hypertension,diagnosis,,0
+,.G3..,See XE0W8,condition,hypertension,diagnosis,,0
+,G203.,See XSDSb,condition,hypertension,diagnosis,,0
+,.G36.,See Xa3fQ,condition,hypertension,diagnosis,,0
+,G25..,See XaZWm,condition,hypertension,diagnosis,,0
+,G26..,See XaZWn,condition,hypertension,diagnosis,,0
+,G27..,See XaZbT,condition,hypertension,diagnosis,,0
+,G28..,See XaZbz,condition,hypertension,diagnosis,,0
+,G250.,See Xab9L,condition,hypertension,diagnosis,,0
+,G251.,See Xab9M,condition,hypertension,diagnosis,,0
+Gyu20,Gyu20,[X]Other secondary hypertension,condition,hypertension,diagnosis,,0
+14A2.,14A2.,H/O: hypertension,condition,hypertension,history,,4268
+9OI9.,,Hypertens.monitor deleted,condition,hypertension,history,,0
+,9OI9.,Hypertension monitoring deleted,condition,hypertension,history,,0
+,.14A2,See 14A2.,condition,hypertension,history,,0
+,.9OI9,See 9OI9.,condition,hypertension,history,,0
+21261,21261,Hypertension resolved,condition,hypertension,resolved,,1531
+212K.,21261,Hypertension resolved,condition,hypertension,resolved,,1323
+,.212K,See 21261,condition,hypertension,resolved,,0
+,212K.,See 21261,condition,hypertension,resolved,,0
+,E....,Mental health disorder,condition,learning_disabilities,diagnosis,,492
+918e.,XaKYb,On learning disability register,condition,learning_disabilities,diagnosis,,153
+13Z4E,13Z4E,Learning difficulties,condition,learning_disabilities,diagnosis,,111
+Eu81z,Eu81z,"[X]Developmental disorder of scholastic skills, unspecified",condition,learning_disabilities,diagnosis,,45
+,XaREt,Mild learning disability,condition,learning_disabilities,diagnosis,,29
+,XaQZ3,Moderate learning disability,condition,learning_disabilities,diagnosis,,25
+E3...,E3...,Mental retardation,condition,learning_disabilities,diagnosis,,20
+Eu816,,[X]Mild learning disability,condition,learning_disabilities,diagnosis,,16
+,Xa0ER,Educationally subnormal,condition,learning_disabilities,diagnosis,,14
+E30..,XE2a3,"Mild mental retardation, IQ in range 50-70",condition,learning_disabilities,diagnosis,,13
+E310.,E310.,"Moderate mental retardation, IQ in range 35-49",condition,learning_disabilities,diagnosis,,9
+Eu70.,,[X]Mild mental retardation,condition,learning_disabilities,diagnosis,,8
+Eu71.,,[X]Moderate mental retardation,condition,learning_disabilities,diagnosis,,8
+E3z..,E3z..,Mental retardation NOS,condition,learning_disabilities,diagnosis,,7
+,X00TL,Developmental disorder of scholastic skill,condition,learning_disabilities,diagnosis,,5
+E2F2.,E2F2.,Other specific learning difficulty,condition,learning_disabilities,diagnosis,,5
+,XaQZ4,Severe learning disability,condition,learning_disabilities,diagnosis,,3
+Eu814,,[X]Moderate learning disability,condition,learning_disabilities,diagnosis,,3
+,E30..,(Mild mental retardation IQ 50-70 (& [feeble-minded] or [moron])) or (educationally subnormal),condition,learning_disabilities,diagnosis,,2
+Eu815,,[X]Severe learning disability,condition,learning_disabilities,diagnosis,,2
+Eu7z.,XE1a2,[X]Unspecified mental retardation,condition,learning_disabilities,diagnosis,,2
+E31z.,E31z.,Other specified mental retardation NOS,condition,learning_disabilities,diagnosis,,1
+E311.,E311.,"Severe mental retardation, IQ in range 20-34",condition,learning_disabilities,diagnosis,,1
+ZV400,ZV400,[V]Problems with learning,condition,learning_disabilities,diagnosis,,1
+Eu70z,Eu70z,[X]Mild mental retardation without mention of impairment of behaviour,condition,learning_disabilities,diagnosis,,1
+,Xa1aW,Borderline mental retardation,condition,learning_disabilities,diagnosis,,0
+38VB.,Xac2W,Clinical Outcomes in Routine Evaluation - Learning Disabilities,condition,learning_disabilities,diagnosis,,0
+E31..,E31..,Other specified mental retardation,condition,learning_disabilities,diagnosis,,0
+E3y..,E31..,Other specified mental retardation,condition,learning_disabilities,diagnosis,,0
+,XaREu,Profound learning disability,condition,learning_disabilities,diagnosis,,0
+E312.,E312.,Profound mental retardation with IQ less than 20,condition,learning_disabilities,diagnosis,,0
+,.E4JD,See E3...,condition,learning_disabilities,diagnosis,,0
+,.E5..,See E3...,condition,learning_disabilities,diagnosis,,0
+,.E51.,See E3...,condition,learning_disabilities,diagnosis,,0
+,Eu7..,See E3...,condition,learning_disabilities,diagnosis,,0
+,X75wz,See E3...,condition,learning_disabilities,diagnosis,,0
+,E3y..,See E31..,condition,learning_disabilities,diagnosis,,0
+,.E512,See E310.,condition,learning_disabilities,diagnosis,,0
+,Eu71.,See E310.,condition,learning_disabilities,diagnosis,,0
+,Xa00k,See E310.,condition,learning_disabilities,diagnosis,,0
+,.E513,See E311.,condition,learning_disabilities,diagnosis,,0
+,Eu72.,See E311.,condition,learning_disabilities,diagnosis,,0
+,Xa00l,See E311.,condition,learning_disabilities,diagnosis,,0
+,Eu73.,See E312.,condition,learning_disabilities,diagnosis,,0
+,Xa01E,See E312.,condition,learning_disabilities,diagnosis,,0
+,.E51Z,See E3z..,condition,learning_disabilities,diagnosis,,0
+,.E5Z.,See E3z..,condition,learning_disabilities,diagnosis,,0
+,.E4I.,See XE1bg,condition,learning_disabilities,diagnosis,,0
+,.E4IZ,See XE1bm,condition,learning_disabilities,diagnosis,,0
+,.E511,See XE2a3,condition,learning_disabilities,diagnosis,,0
+,Eu70.,See XE2a3,condition,learning_disabilities,diagnosis,,0
+,Xa00j,See XE2a3,condition,learning_disabilities,diagnosis,,0
+,.918e,See XaKYb,condition,learning_disabilities,diagnosis,,0
+,918e.,See XaKYb,condition,learning_disabilities,diagnosis,,0
+,Eu814,See XaQZ3,condition,learning_disabilities,diagnosis,,0
+,Eu815,See XaQZ4,condition,learning_disabilities,diagnosis,,0
+,Eu816,See XaREt,condition,learning_disabilities,diagnosis,,0
+,Eu817,See XaREu,condition,learning_disabilities,diagnosis,,0
+,Eu818,See XaaiS,condition,learning_disabilities,diagnosis,,0
+,38VB.,See Xac2W,condition,learning_disabilities,diagnosis,,0
+,Xa3HI,Severely educationally subnormal,condition,learning_disabilities,diagnosis,,0
+,Xabk1,Significant learning disability,condition,learning_disabilities,diagnosis,,0
+,XaaiS,Specific learning disability,condition,learning_disabilities,diagnosis,,0
+,Eu7z.,[X] (Unspecified mental retardation) or (mental deficiency [& subnormality] NOS),condition,learning_disabilities,diagnosis,,0
+,Eu81y,[X] Developmental disorders of scholastic skills: [other] or [expressive writing disorder],condition,learning_disabilities,diagnosis,,0
+Eu7..,,[X]Mental retardation,condition,learning_disabilities,diagnosis,,0
+Eu700,Eu700,"[X]Mild mental retardation with the statement of no, or minimal, impairment of behaviour",condition,learning_disabilities,diagnosis,,0
+Eu70y,Eu70y,"[X]Mild mental retardation, other impairments of behaviour",condition,learning_disabilities,diagnosis,,0
+Eu701,Eu701,"[X]Mild mental retardation, significant impairment of behaviour requiring attention or treatment",condition,learning_disabilities,diagnosis,,0
+Eu71y,Eu71y,[X]Mod retard oth behav impair,condition,learning_disabilities,diagnosis,,0
+Eu710,Eu710,"[X]Moderate mental retardation with the statement of no, or minimal, impairment of behaviour",condition,learning_disabilities,diagnosis,,0
+Eu71z,Eu71z,[X]Moderate mental retardation without mention of impairment of behaviour,condition,learning_disabilities,diagnosis,,0
+Eu711,Eu711,"[X]Moderate mental retardation, significant impairment of behaviour requiring attention or treatment",condition,learning_disabilities,diagnosis,,0
+Eu81y,XE1a9,[X]Other developmental disorders of scholastic skills,condition,learning_disabilities,diagnosis,,0
+Eu7y.,Eu7y.,[X]Other mental retardation,condition,learning_disabilities,diagnosis,,0
+Eu7y0,Eu7y0,"[X]Other mental retardation with the statement of no, or minimal, impairment of behaviour",condition,learning_disabilities,diagnosis,,0
+Eu7yz,Eu7yz,[X]Other mental retardation without mention of impairment of behaviour,condition,learning_disabilities,diagnosis,,0
+Eu7yy,Eu7yy,"[X]Other mental retardation, other impairments of behaviour",condition,learning_disabilities,diagnosis,,0
+Eu7y1,Eu7y1,"[X]Other mental retardation, significant impairment of behaviour requiring attention or treatment",condition,learning_disabilities,diagnosis,,0
+Eu817,,[X]Profound learning disability,condition,learning_disabilities,diagnosis,,0
+Eu73.,,[X]Profound mental retardation,condition,learning_disabilities,diagnosis,,0
+Eu730,Eu730,"[X]Profound mental retardation with the statement of no, or minimal, impairment of behaviour",condition,learning_disabilities,diagnosis,,0
+Eu73z,Eu73z,[X]Profound mental retardation without mention of impairment of behaviour,condition,learning_disabilities,diagnosis,,0
+Eu73y,Eu73y,"[X]Profound mental retardation, other impairments of behaviour",condition,learning_disabilities,diagnosis,,0
+Eu731,Eu731,"[X]Profound mental retardation, significant impairment of behaviour requiring attention or treatment",condition,learning_disabilities,diagnosis,,0
+Eu72.,,[X]Severe mental retardation,condition,learning_disabilities,diagnosis,,0
+Eu720,Eu720,"[X]Severe mental retardation with the statement of no, or minimal, impairment of behaviour",condition,learning_disabilities,diagnosis,,0
+Eu72z,Eu72z,[X]Severe mental retardation without mention of impairment of behaviour,condition,learning_disabilities,diagnosis,,0
+Eu72y,Eu72y,"[X]Severe mental retardation, other impairments of behaviour",condition,learning_disabilities,diagnosis,,0
+Eu721,Eu721,"[X]Severe mental retardation, significant impairment of behaviour requiring attention or treatment",condition,learning_disabilities,diagnosis,,0
+Eu81.,Eu81.,[X]Specific developmental disorders of scholastic skills,condition,learning_disabilities,diagnosis,,0
+Eu818,,[X]Specific learning disability,condition,learning_disabilities,diagnosis,,0
+Eu7z0,Eu7z0,"[X]Unspecified mental retardation with the statement of no, or minimal, impairment of behaviour",condition,learning_disabilities,diagnosis,,0
+Eu7zz,Eu7zz,[X]Unspecified mental retardation without mention of impairment of behaviour,condition,learning_disabilities,diagnosis,,0
+Eu7zy,Eu7zy,"[X]Unspecified mental retardation, other impairments of behaviour",condition,learning_disabilities,diagnosis,,0
+Eu7z1,Eu7z1,"[X]Unspecified mental retardation, significant impairment of behaviour requiring attention or treatment",condition,learning_disabilities,diagnosis,,0
+G30..,XE0Uh,Acute myocardial infarction,condition,mi,diagnosis,,8290
+G3071,XaIwY,Acute non-ST segment elevation myocardial infarction,condition,mi,diagnosis,,2137
+,X200E,Myocardial infarction,condition,mi,diagnosis,,1007
+G30X0,XaIwM,Acute ST segment elevation myocardial infarction,condition,mi,diagnosis,,923
+G30z.,G30z.,Acute myocardial infarction NOS,condition,mi,diagnosis,,618
+G308.,G308.,Inferior myocardial infarction NOS,condition,mi,diagnosis,,465
+G301z,G301z,Anterior myocardial infarction NOS,condition,mi,diagnosis,,189
+,G300.,Acute anterolateral myocardial infarction,condition,mi,diagnosis,,77
+,G302.,Acute inferolateral myocardial infarction,condition,mi,diagnosis,,74
+,Xa0YL,Acute anterior myocardial infarction,condition,mi,diagnosis,,57
+,X200K,Acute inferior myocardial infarction,condition,mi,diagnosis,,50
+G307.,G307.,Acute subendocardial infarction,condition,mi,diagnosis,,48
+,X202q,Mural thrombus,condition,mi,diagnosis,,39
+323..,323..,ECG: myocardial infarction,condition,mi,diagnosis,,37
+G301.,G301.,Other specified anterior myocardial infarction,condition,mi,diagnosis,,36
+G304.,G304.,Posterior myocardial infarction NOS,condition,mi,diagnosis,,30
+,G3011,Acute anteroseptal myocardial infarction,condition,mi,diagnosis,,27
+G303.,G303.,Acute inferoposterior infarction,condition,mi,diagnosis,,21
+G305.,G305.,Lateral myocardial infarction NOS,condition,mi,diagnosis,,18
+G3070,XaAzi,Acute non-Q wave infarction,condition,mi,diagnosis,,17
+,XaIf1,First myocardial infarction,condition,mi,diagnosis,,16
+G300.,,Acute anterolateral infarction,condition,mi,diagnosis,,13
+G30yz,G30yz,Other acute myocardial infarction NOS,condition,mi,diagnosis,,11
+G38..,XaD2b,Postoperative myocardial infarction,condition,mi,diagnosis,,11
+G35..,G35..,Subsequent myocardial infarction,condition,mi,diagnosis,,11
+,3233.,ECG: anteroseptal infarction,condition,mi,diagnosis,,10
+G30y.,G30y.,Other acute myocardial infarction,condition,mi,diagnosis,,9
+,XaAC3,Acute Q wave myocardial infarction,condition,mi,diagnosis,,8
+G302.,,Acute inferolateral infarction,condition,mi,diagnosis,,8
+3234.,3234.,ECG:posterior/inferior infarct,condition,mi,diagnosis,,7
+,G30..,(Myocardial infarction (& [acute] or [silent] or [cardiac rupture following])) or (coronary thrombosis),condition,mi,diagnosis,,5
+,X200V,Acute posterior myocardial infarction,condition,mi,diagnosis,,5
+G309.,,Acute Q-wave infarct,condition,mi,diagnosis,,4
+323Z.,323Z.,ECG: myocardial infarct NOS,condition,mi,diagnosis,,4
+G30A.,,Mural thrombosis,condition,mi,diagnosis,,4
+,X200a,Silent myocardial infarction,condition,mi,diagnosis,,4
+G3011,,Acute anteroseptal infarction,condition,mi,diagnosis,,3
+G30B.,XaJX0,Acute posterolateral myocardial infarction,condition,mi,diagnosis,,3
+,X203v,Coronary artery thrombosis,condition,mi,diagnosis,,3
+,XaEgZ,Non-Q wave myocardial infarction,condition,mi,diagnosis,,3
+G384.,XaD2h,Postoperative subendocardial myocardial infarction,condition,mi,diagnosis,,3
+G306.,G306.,True posterior myocardial infarction,condition,mi,diagnosis,,3
+G3010,G3010,Acute anteroapical infarction,condition,mi,diagnosis,,2
+,X200P,Acute lateral myocardial infarction,condition,mi,diagnosis,,2
+,X200S,Acute widespread myocardial infarction,condition,mi,diagnosis,,2
+3236.,3236.,ECG: lateral infarction,condition,mi,diagnosis,,2
+3235.,3235.,ECG: subendocardial infarct,condition,mi,diagnosis,,2
+Gyu34,Gyu34,[X]Acute transmural myocardial infarction of unspecified site,condition,mi,diagnosis,,2
+,X200I,Acute Q wave infarction - anterolateral,condition,mi,diagnosis,,1
+,X200G,Acute Q wave infarction - anteroseptal,condition,mi,diagnosis,,1
+,X200L,Acute Q wave infarction - inferior,condition,mi,diagnosis,,1
+,X200Q,Acute Q wave infarction - lateral,condition,mi,diagnosis,,1
+G30y0,G30y0,Acute atrial infarction,condition,mi,diagnosis,,1
+,X200M,Acute non-Q wave infarction - inferior,condition,mi,diagnosis,,1
+G30y2,G30y2,Acute septal infarction,condition,mi,diagnosis,,1
+G30X.,,Acute transmural myocardial infarction of unspecified site,condition,mi,diagnosis,,1
+,X200e,Cardiac rupture after acute myocardial infarction,condition,mi,diagnosis,,1
+3233.,,ECG: antero-septal infarct.,condition,mi,diagnosis,,1
+G351.,G351.,Subsequent myocardial infarction of inferior wall,condition,mi,diagnosis,,1
+,X200N,Acute Q wave infarction - inferolateral,condition,mi,diagnosis,,0
+,X200T,Acute Q wave infarction - widespread,condition,mi,diagnosis,,0
+,X200J,Acute non-Q wave infarction - anterolateral,condition,mi,diagnosis,,0
+,X200H,Acute non-Q wave infarction - anteroseptal,condition,mi,diagnosis,,0
+,X200O,Acute non-Q wave infarction - inferolateral,condition,mi,diagnosis,,0
+,X200R,Acute non-Q wave infarction - lateral,condition,mi,diagnosis,,0
+,X200U,Acute non-Q wave infarction - widespread,condition,mi,diagnosis,,0
+G30y1,G30y1,Acute papillary muscle infarction,condition,mi,diagnosis,,0
+,X202s,Intracardiac thrombosis in low output state,condition,mi,diagnosis,,0
+,X202r,Post-infarction mural thrombus,condition,mi,diagnosis,,0
+G38z.,XaD2i,"Postoperative myocardial infarction, unspecified",condition,mi,diagnosis,,0
+G380.,XaD2d,Postoperative transmural myocardial infarction of anterior wall,condition,mi,diagnosis,,0
+G381.,XaD2e,Postoperative transmural myocardial infarction of inferior wall,condition,mi,diagnosis,,0
+G382.,XaD2f,Postoperative transmural myocardial infarction of other sites,condition,mi,diagnosis,,0
+G383.,XaD2g,Postoperative transmural myocardial infarction of unspecified site,condition,mi,diagnosis,,0
+,.323.,See 323..,condition,mi,diagnosis,,0
+,.3233,See 3233.,condition,mi,diagnosis,,0
+,.3234,See 3234.,condition,mi,diagnosis,,0
+,.3235,See 3235.,condition,mi,diagnosis,,0
+,.3236,See 3236.,condition,mi,diagnosis,,0
+,.323Z,See 323Z.,condition,mi,diagnosis,,0
+,G30A.,See X202q,condition,mi,diagnosis,,0
+,.G41.,See XE0WA,condition,mi,diagnosis,,0
+,.G46.,See XaAC3,condition,mi,diagnosis,,0
+,G309.,See XaAC3,condition,mi,diagnosis,,0
+,.G48.,See XaAzi,condition,mi,diagnosis,,0
+,G3070,See XaAzi,condition,mi,diagnosis,,0
+,G38..,See XaD2b,condition,mi,diagnosis,,0
+,G380.,See XaD2d,condition,mi,diagnosis,,0
+,G381.,See XaD2e,condition,mi,diagnosis,,0
+,G382.,See XaD2f,condition,mi,diagnosis,,0
+,G383.,See XaD2g,condition,mi,diagnosis,,0
+,G384.,See XaD2h,condition,mi,diagnosis,,0
+,G38z.,See XaD2i,condition,mi,diagnosis,,0
+,.G49.,See XaIf1,condition,mi,diagnosis,,0
+,G30X0,See XaIwM,condition,mi,diagnosis,,0
+,G3071,See XaIwY,condition,mi,diagnosis,,0
+,G30B.,See XaJX0,condition,mi,diagnosis,,0
+G350.,G350.,Subsequent myocardial infarction of anterior wall,condition,mi,diagnosis,,0
+G353.,G353.,Subsequent myocardial infarction of other sites,condition,mi,diagnosis,,0
+G35X.,,Subsequent myocardial infarction of unspecified site,condition,mi,diagnosis,,0
+Gyu36,Gyu36,[X]Subsequent myocardial infarction of unspecified site,condition,mi,diagnosis,,0
+G32..,XE2aA,Old myocardial infarction,condition,mi,history,,338
+,14A3.,H/O: myocardial infarct at less than 60,condition,mi,history,,87
+3232.,3232.,ECG: old myocardial infarction,condition,mi,history,,39
+14A3.,,H/O: myocardial infarct <60,condition,mi,history,,38
+,14A4.,H/O: myocardial infarct at greater than 60,condition,mi,history,,17
+G33z5,XaEXt,Post infarct angina,condition,mi,history,,17
+14AT.,XaQk7,History of myocardial infarction,condition,mi,history,,16
+,G32..,Myocardial infarction: [old] or [healed] or [personal history of],condition,mi,history,,14
+,X200X,Old inferior myocardial infarction,condition,mi,history,,12
+,G310.,Post-myocardial infarction syndrome,condition,mi,history,,10
+14AH.,XaBL1,H/O: Myocardial infarction in last year,condition,mi,history,,9
+14A4.,,H/O: myocardial infarct >60,condition,mi,history,,8
+G310.,,Postmyocardial infarction syndrome,condition,mi,history,,8
+,X200W,Old anterior myocardial infarction,condition,mi,history,,4
+,X200Z,Old posterior myocardial infarction,condition,mi,history,,2
+,X200Y,Old lateral myocardial infarction,condition,mi,history,,1
+,.14A3,See 14A3.,condition,mi,history,,0
+,.14A4,See 14A4.,condition,mi,history,,0
+,.3232,See 3232.,condition,mi,history,,0
+,.G43.,See XE2aA,condition,mi,history,,0
+,.14AH,See XaBL1,condition,mi,history,,0
+,14AH.,See XaBL1,condition,mi,history,,0
+,.G442,See XaEXt,condition,mi,history,,0
+,G33z5,See XaEXt,condition,mi,history,,0
+C164.,XE10l,Polycystic ovaries,condition,pcos,diagnosis,,668
+,X406n,Polycystic ovary syndrome,condition,pcos,diagnosis,,223
+C165.,,Polycystic ovarian syndrome,condition,pcos,diagnosis,,59
+,C164.,(Polycystic ovaries) or (isosexual virilisation) or (Stein-Leventhal syndrome) or (multicystic ovaries),condition,pcos,diagnosis,,16
+,X40NO,Multicystic ovaries,condition,pcos,diagnosis,,2
+,XE2p5,(Polycystic ovaries) or (Stein-Leventhal syndrome),condition,pcos,diagnosis,,1
+,X40NW,Isosexual virilisation,condition,pcos,diagnosis,,0
+,.C348,See X406n,condition,pcos,diagnosis,,0
+,C165.,See X406n,condition,pcos,diagnosis,,0
+,.C344,See XE2p5,condition,pcos,diagnosis,,0
+E10..,E10..,Schizophrenic disorders,condition,schizophrenia,diagnosis,,568
+E103.,E103.,Paranoid schizophrenia,condition,schizophrenia,diagnosis,,526
+,Eu20.,Schizophrenia,condition,schizophrenia,diagnosis,,384
+E10z.,E10z.,Schizophrenia NOS,condition,schizophrenia,diagnosis,,296
+,E12..,Paranoid disorder,condition,schizophrenia,diagnosis,,157
+E12z.,E12z.,Paranoid psychosis NOS,condition,schizophrenia,diagnosis,,121
+,Eu25.,Schizoaffective disorder,condition,schizophrenia,diagnosis,,112
+1BH3.,XaKUl,Paranoid ideation,condition,schizophrenia,diagnosis,,101
+E1002,E1002,Chronic schizophrenic,condition,schizophrenia,diagnosis,,99
+Eu220,,[X]Delusional disorder,condition,schizophrenia,diagnosis,,91
+,XE1ZO,Delusional disorder,condition,schizophrenia,diagnosis,,82
+,XaX51,Paranoid state in remission,condition,schizophrenia,diagnosis,,79
+E1005,E1005,Schizophrenia in remission,condition,schizophrenia,diagnosis,,70
+,X00S6,Psychotic disorder,condition,schizophrenia,diagnosis,,68
+,XaX52,Non-organic psychosis in remission,condition,schizophrenia,diagnosis,,59
+,Xa0tC,Late paraphrenia,condition,schizophrenia,diagnosis,,56
+Eu2z.,XE1ZU,[X]Unspecified nonorganic psychosis,condition,schizophrenia,diagnosis,,49
+E1000,E1000,Unspecified schizophrenia,condition,schizophrenia,diagnosis,,48
+,E107.,Schizoaffective schizophrenia,condition,schizophrenia,diagnosis,,40
+Eu25.,,[X]Schizoaffective disorders,condition,schizophrenia,diagnosis,,40
+Eu25z,Eu25z,"[X]Schizoaffective disorder, unspecified",condition,schizophrenia,diagnosis,,28
+E1035,E1035,Paranoid schizophrenia in remission,condition,schizophrenia,diagnosis,,27
+,X00SC,Acute transient psychotic disorder,condition,schizophrenia,diagnosis,,21
+Eu250,,"[X]Schizoaffective disorder, manic type",condition,schizophrenia,diagnosis,,20
+,XE1aM,Schizophrenic psychoses (& [paranoid schizophrenia]),condition,schizophrenia,diagnosis,,18
+,Eu2z.,[X] Psychosis: [unspecified nonorganic] or [NOS],condition,schizophrenia,diagnosis,,18
+E104.,XE1Xw,Acute schizophrenic episode,condition,schizophrenia,diagnosis,,17
+,E1075,Schizoaffective schizophrenia in remission,condition,schizophrenia,diagnosis,,17
+E100.,E100.,Simple schizophrenia,condition,schizophrenia,diagnosis,,16
+Eu26.,,[X]Nonorganic psychosis in remission,condition,schizophrenia,diagnosis,,16
+,X00SA,Persistent delusional disorder,condition,schizophrenia,diagnosis,,15
+E1030,E1030,Unspecified paranoid schizophrenia,condition,schizophrenia,diagnosis,,15
+Eu20.,,[X]Schizophrenia,condition,schizophrenia,diagnosis,,15
+Eu2..,Eu2..,"[X]Schizophrenia, schizotypal and delusional disorders",condition,schizophrenia,diagnosis,,15
+Eu230,XE1ZQ,[X]Acute polymorphic psychotic disorder without symptoms of schizophrenia,condition,schizophrenia,diagnosis,,13
+E107.,,Schizo-affective schizophrenia,condition,schizophrenia,diagnosis,,12
+,XE2b8,"Schizoaffective disorder, mixed type",condition,schizophrenia,diagnosis,,12
+,Eu220,[X] Delusional disorder (& [paranoia] or [paranoid psychosis] or [paranoid state] or [paraphrenia - late] or [sensitiver Beziehungswahn],condition,schizophrenia,diagnosis,,12
+E1032,E1032,Chronic paranoid schizophrenia,condition,schizophrenia,diagnosis,,11
+Eu223,,[X]Paranoid state in remission,condition,schizophrenia,diagnosis,,11
+Eu22.,,[X]Persistent delusional disorders,condition,schizophrenia,diagnosis,,11
+,Xa9B0,Puerperal psychosis,condition,schizophrenia,diagnosis,,10
+Eu23z,XE1ZS,"[X]Acute and transient psychotic disorder, unspecified",condition,schizophrenia,diagnosis,,9
+,Eu23z,"[X]Acute and transient psychotic disorder, unspecified (& [reactive psychosis (including brief NOS)])",condition,schizophrenia,diagnosis,,9
+E134.,E134.,Psychogenic paranoid psychosis,condition,schizophrenia,diagnosis,,8
+,X00Qy,Reactive psychoses,condition,schizophrenia,diagnosis,,8
+Eu22z,Eu22z,"[X]Persistent delusional disorder, unspecified",condition,schizophrenia,diagnosis,,7
+E103z,E103z,Paranoid schizophrenia NOS,condition,schizophrenia,diagnosis,,6
+,XE2un,"Schizoaffective disorder, depressive type",condition,schizophrenia,diagnosis,,6
+Eu21.,XE1ZN,[X]Schizotypal disorder,condition,schizophrenia,diagnosis,,6
+,X00RU,Epileptic psychosis,condition,schizophrenia,diagnosis,,5
+,E107z,Schizoaffective schizophrenia NOS,condition,schizophrenia,diagnosis,,5
+Eu233,XE1ZR,[X]Other acute predominantly delusional psychotic disorders,condition,schizophrenia,diagnosis,,5
+Eu20z,Eu20z,"[X]Schizophrenia, unspecified",condition,schizophrenia,diagnosis,,5
+,X50GF,Delusions of parasitosis,condition,schizophrenia,diagnosis,,4
+E12yz,E12yz,Other paranoid states NOS,condition,schizophrenia,diagnosis,,4
+E10yz,E10yz,Other schizophrenia NOS,condition,schizophrenia,diagnosis,,4
+E1031,E1031,Subchronic paranoid schizophrenia,condition,schizophrenia,diagnosis,,4
+Eu23.,,[X]Acute and transient psychotic disorders,condition,schizophrenia,diagnosis,,4
+Eu200,,[X]Paranoid schizophrenia,condition,schizophrenia,diagnosis,,4
+E1004,E1004,Acute exacerbation of chronic schizophrenia,condition,schizophrenia,diagnosis,,3
+E102.,E102.,Catatonic schizophrenia,condition,schizophrenia,diagnosis,,3
+,XaB5v,Cycloid psychosis,condition,schizophrenia,diagnosis,,3
+E101.,E101.,Hebephrenic schizophrenia,condition,schizophrenia,diagnosis,,3
+E10y.,XE1Xx,Other schizophrenia,condition,schizophrenia,diagnosis,,3
+E106.,E106.,Residual schizophrenia,condition,schizophrenia,diagnosis,,3
+Eu202,,[X]Catatonic schizophrenia,condition,schizophrenia,diagnosis,,3
+,XE1ZT,[X]Other non-organic psychotic disorders,condition,schizophrenia,diagnosis,,3
+E1034,E1034,Acute exacerbation of chronic paranoid schizophrenia,condition,schizophrenia,diagnosis,,2
+,Xa0s9,Acute schizophrenia-like psychotic disorder,condition,schizophrenia,diagnosis,,2
+,E104.,Acute schizophrenic episode (& [oneirophrenia]),condition,schizophrenia,diagnosis,,2
+E1055,E1055,Latent schizophrenia in remission,condition,schizophrenia,diagnosis,,2
+,Xa1Pl,Psychotic symptom present,condition,schizophrenia,diagnosis,,2
+E1075,,Schizo-affective schizophrenia in remission,condition,schizophrenia,diagnosis,,2
+,XE2uT,"Schizoaffective disorder, manic type",condition,schizophrenia,diagnosis,,2
+E1070,,Unspecified schizo-affective schizophrenia,condition,schizophrenia,diagnosis,,2
+,Eu2y.,[X] (Other nonorganic psychotic disorders) or (chronic hallucinatory psychosis),condition,schizophrenia,diagnosis,,2
+Eu231,Eu231,[X]Acute polymorphic psychotic disorder with symptoms of schizophrenia,condition,schizophrenia,diagnosis,,2
+Eu23y,Eu23y,[X]Other acute and transient psychotic disorders,condition,schizophrenia,diagnosis,,2
+Eu20y,XE1ZM,[X]Other schizophrenia,condition,schizophrenia,diagnosis,,2
+Eu251,,"[X]Schizoaffective disorder, depressive type",condition,schizophrenia,diagnosis,,2
+Eu203,Eu203,[X]Undifferentiated schizophrenia,condition,schizophrenia,diagnosis,,2
+,XE1aO,(Paranoid schizophrenia) or (paraphrenia),condition,schizophrenia,diagnosis,,1
+E1014,E1014,Acute exacerbation of chronic hebephrenic schizophrenia,condition,schizophrenia,diagnosis,,1
+,E1073,Acute exacerbation of subchronic schizoaffective schizophrenia,condition,schizophrenia,diagnosis,,1
+E1003,E1003,Acute exacerbation of subchronic schizophrenia,condition,schizophrenia,diagnosis,,1
+E1025,E1025,Catatonic schizophrenia in remission,condition,schizophrenia,diagnosis,,1
+E1072,,Chronic schizo-affective schizophrenia,condition,schizophrenia,diagnosis,,1
+E1015,E1015,Hebephrenic schizophrenia in remission,condition,schizophrenia,diagnosis,,1
+,Xa1aD,Monosymptomatic hypochondriacal psychosis,condition,schizophrenia,diagnosis,,1
+E107z,,Schizo-affective schizophrenia NOS,condition,schizophrenia,diagnosis,,1
+,X40Dp,Severe postnatal psychosis,condition,schizophrenia,diagnosis,,1
+,Eu232,[X] Acute schizophrenia-like psychotic disorder (& [brief schizophreniform disorder] or [brief schizophrenifrm psych] or [oneirophrenia] or [schizophrenic reaction]),condition,schizophrenia,diagnosis,,1
+Eu232,,[X]Acute schizophrenia-like psychotic disorder,condition,schizophrenia,diagnosis,,1
+Eu201,,[X]Hebephrenic schizophrenia,condition,schizophrenia,diagnosis,,1
+Eu24.,,[X]Induced delusional disorder,condition,schizophrenia,diagnosis,,1
+Eu2y.,,[X]Other nonorganic psychotic disorders,condition,schizophrenia,diagnosis,,1
+E1024,E1024,Acute exacerbation of chronic catatonic schizophrenia,condition,schizophrenia,diagnosis,,0
+E1054,E1054,Acute exacerbation of chronic latent schizophrenia,condition,schizophrenia,diagnosis,,0
+E1074,,Acute exacerbation of chronic schizo-affective schizophrenia,condition,schizophrenia,diagnosis,,0
+,E1074,Acute exacerbation of chronic schizoaffective schizophrenia,condition,schizophrenia,diagnosis,,0
+E1023,E1023,Acute exacerbation of subchronic catatonic schizophrenia,condition,schizophrenia,diagnosis,,0
+E1013,E1013,Acute exacerbation of subchronic hebephrenic schizophrenia,condition,schizophrenia,diagnosis,,0
+E1053,E1053,Acute exacerbation of subchronic latent schizophrenia,condition,schizophrenia,diagnosis,,0
+E1033,E1033,Acute exacerbation of subchronic paranoid schizophrenia,condition,schizophrenia,diagnosis,,0
+E1073,,Acute exacerbation of subchronic schizo-affective schizophrenia,condition,schizophrenia,diagnosis,,0
+,XM1GH,Acute polymorphic psychotic disorder,condition,schizophrenia,diagnosis,,0
+E10y0,E10y0,Atypical schizophrenia,condition,schizophrenia,diagnosis,,0
+,XaB5u,Bouffee delirante,condition,schizophrenia,diagnosis,,0
+E102z,E102z,Catatonic schizophrenia NOS,condition,schizophrenia,diagnosis,,0
+,E10y1,Cenesthopathic schizophrenia,condition,schizophrenia,diagnosis,,0
+E1022,E1022,Chronic catatonic schizophrenia,condition,schizophrenia,diagnosis,,0
+E1012,E1012,Chronic hebephrenic schizophrenia,condition,schizophrenia,diagnosis,,0
+E1052,E1052,Chronic latent schizophrenia,condition,schizophrenia,diagnosis,,0
+,E1072,Chronic schizoaffective schizophrenia,condition,schizophrenia,diagnosis,,0
+E10y1,,Coenesthopathic schizophrenia,condition,schizophrenia,diagnosis,,0
+,XSKr7,Cotard syndrome,condition,schizophrenia,diagnosis,,0
+,X50GE,Cutaneous monosymptomatic delusional psychosis,condition,schizophrenia,diagnosis,,0
+,X50GH,Delusion of foul odour,condition,schizophrenia,diagnosis,,0
+,Xa0lF,Delusional dysmorphophobia,condition,schizophrenia,diagnosis,,0
+,X50GJ,Delusional hyperhidrosis,condition,schizophrenia,diagnosis,,0
+,X75z7,Delusional misidentification syndrome,condition,schizophrenia,diagnosis,,0
+,X50GG,Delusions of infestation,condition,schizophrenia,diagnosis,,0
+,Xa1aF,Erotomania,condition,schizophrenia,diagnosis,,0
+E101z,E101z,Hebephrenic schizophrenia NOS,condition,schizophrenia,diagnosis,,0
+,X50GK,Hyperschemazia,condition,schizophrenia,diagnosis,,0
+,X50GL,Hyposchemazia,condition,schizophrenia,diagnosis,,0
+,Eu24.,Induced delusional disorder,condition,schizophrenia,diagnosis,,0
+,Xa0lD,Involutional paranoid state,condition,schizophrenia,diagnosis,,0
+E105.,E105.,Latent schizophrenia,condition,schizophrenia,diagnosis,,0
+E105z,E105z,Latent schizophrenia NOS,condition,schizophrenia,diagnosis,,0
+,X40Do,Mild postnatal psychosis,condition,schizophrenia,diagnosis,,0
+,XaB8j,Oneirophrenia,condition,schizophrenia,diagnosis,,0
+,Xa0s8,Paranoid-hallucinatory epileptic psychosis,condition,schizophrenia,diagnosis,,0
+,X00S8,Post-schizophrenic depression,condition,schizophrenia,diagnosis,,0
+,E10y.,Schizophrenia: [other] or [cenesthopathic],condition,schizophrenia,diagnosis,,0
+,X761M,Schizophrenic prodrome,condition,schizophrenia,diagnosis,,0
+,X00SD,Schizophreniform disorder,condition,schizophrenia,diagnosis,,0
+,.E211,See E100.,condition,schizophrenia,diagnosis,,0
+,Eu206,See E100.,condition,schizophrenia,diagnosis,,0
+,.E212,See E101.,condition,schizophrenia,diagnosis,,0
+,Eu201,See E101.,condition,schizophrenia,diagnosis,,0
+,.E213,See E102.,condition,schizophrenia,diagnosis,,0
+,Eu200,See E103.,condition,schizophrenia,diagnosis,,0
+,Eu205,See E106.,condition,schizophrenia,diagnosis,,0
+,.E21Z,See E10z.,condition,schizophrenia,diagnosis,,0
+,X00SF,See Eu25.,condition,schizophrenia,diagnosis,,0
+,Eu204,See X00S8,condition,schizophrenia,diagnosis,,0
+,Eu22.,See X00SA,condition,schizophrenia,diagnosis,,0
+,Eu23.,See X00SC,condition,schizophrenia,diagnosis,,0
+,X75zF,See X50GG,condition,schizophrenia,diagnosis,,0
+,.E24.,See X75z7,condition,schizophrenia,diagnosis,,0
+,Eu221,See X75z7,condition,schizophrenia,diagnosis,,0
+,.E21.,See XE1aM,condition,schizophrenia,diagnosis,,0
+,.E214,See XE1aO,condition,schizophrenia,diagnosis,,0
+,.E23.,See XE1aU,condition,schizophrenia,diagnosis,,0
+,X00SI,See XE2b8,condition,schizophrenia,diagnosis,,0
+,Eu250,See XE2uT,condition,schizophrenia,diagnosis,,0
+,X00SG,See XE2uT,condition,schizophrenia,diagnosis,,0
+,Eu251,See XE2un,condition,schizophrenia,diagnosis,,0
+,X00SH,See XE2un,condition,schizophrenia,diagnosis,,0
+,Eu222,See XSKr7,condition,schizophrenia,diagnosis,,0
+,.E142,See Xa9B0,condition,schizophrenia,diagnosis,,0
+,Eu223,See XaX51,condition,schizophrenia,diagnosis,,0
+,Eu26.,See XaX52,condition,schizophrenia,diagnosis,,0
+E100z,E100z,Simple schizophrenia NOS,condition,schizophrenia,diagnosis,,0
+E1021,E1021,Subchronic catatonic schizophrenia,condition,schizophrenia,diagnosis,,0
+E1011,E1011,Subchronic hebephrenic schizophrenia,condition,schizophrenia,diagnosis,,0
+E1051,E1051,Subchronic latent schizophrenia,condition,schizophrenia,diagnosis,,0
+E1071,,Subchronic schizo-affective schizophrenia,condition,schizophrenia,diagnosis,,0
+,E1071,Subchronic schizoaffective schizophrenia,condition,schizophrenia,diagnosis,,0
+E1001,E1001,Subchronic schizophrenia,condition,schizophrenia,diagnosis,,0
+E1020,E1020,Unspecified catatonic schizophrenia,condition,schizophrenia,diagnosis,,0
+E1010,E1010,Unspecified hebephrenic schizophrenia,condition,schizophrenia,diagnosis,,0
+E1050,E1050,Unspecified latent schizophrenia,condition,schizophrenia,diagnosis,,0
+,E1070,Unspecified schizoaffective schizophrenia,condition,schizophrenia,diagnosis,,0
+,Eu202,[X] (Catatonic schizophrenia) or (catatonic stupor) or (schizophrenic catalepsy) or (schizophrenic catatonia) or (schizophrenic flexibilatis cerea),condition,schizophrenia,diagnosis,,0
+,Eu233,[X] (Other acute predominantly delusional psychotic disorders) or (psychogenic paranoid psychosis),condition,schizophrenia,diagnosis,,0
+,Eu22y,[X] (Other persistent delusional disorders) or (delusional dysmorphophobia) or (involutional paranoid state) or (paranoia querulans),condition,schizophrenia,diagnosis,,0
+,Eu20y,[X] (Schizophrenia: [cenesthopathic] or [other]) or (schizophreniform disorder [including psychosis] NOS),condition,schizophrenia,diagnosis,,0
+,Eu230,[X] Acute polymorphic psychotic disorder without symptoms of schizophrenia (& [bouffee delirante] or [cycloid psychosis]),condition,schizophrenia,diagnosis,,0
+,Eu21.,[X] Schizotypal disorder (& [latent] or [latent schizophrenic reaction] or [borderline] or [prepsychotic] or [prodromal] or [pseudoneurotic] or [pseudopsychopathic],condition,schizophrenia,diagnosis,,0
+,Eu252,"[X](Schizoaffective disorder, mixed type) or (cyclic schizophrenia) or (mixed schizophrenic and affective psychosis)",condition,schizophrenia,diagnosis,,0
+Eu222,,[X]Cotard syndrome,condition,schizophrenia,diagnosis,,0
+Eu221,,[X]Delusional misidentification syndrome,condition,schizophrenia,diagnosis,,0
+Eu22y,XE1ZP,[X]Other persistent delusional disorders,condition,schizophrenia,diagnosis,,0
+Eu25y,Eu25y,[X]Other schizoaffective disorders,condition,schizophrenia,diagnosis,,0
+Eu204,,[X]Post-schizophrenic depression,condition,schizophrenia,diagnosis,,0
+Eu205,,[X]Residual schizophrenia,condition,schizophrenia,diagnosis,,0
+Eu252,,"[X]Schizoaffective disorder, mixed type",condition,schizophrenia,diagnosis,,0
+Eu206,,[X]Simple schizophrenia,condition,schizophrenia,diagnosis,,0
+1464.,1464.,H/O: schizophrenia,condition,schizophrenia,history,,119
+ZV110,ZV110,[V]Personal history of schizophrenia,condition,schizophrenia,history,,11
+,.1464,See 1464.,condition,schizophrenia,history,,0
+212T.,XaLIa,"Psychosis, schizophrenia and bipolar affective disorder resolved",condition,schizophrenia,resolved,,190
+212X.,XaMwe,Psychosis resolved,condition,schizophrenia,resolved,,14
+,.212T,See XaLIa,condition,schizophrenia,resolved,,0
+,212T.,See XaLIa,condition,schizophrenia,resolved,,0
+,.212X,See XaMwe,condition,schizophrenia,resolved,,0
+,212X.,See XaMwe,condition,schizophrenia,resolved,,0
+G60..,Xa1uW,Subarachnoid haemorrhage,condition,stroke,diagnosis,haemorrhagic,1034
+G61..,,Intracerebral haemorrhage,condition,stroke,diagnosis,haemorrhagic,223
+,XE0VF,Cerebral parenchymal haemorrhage,condition,stroke,diagnosis,haemorrhagic,170
+G61z.,G61z.,Intracerebral haemorrhage NOS,condition,stroke,diagnosis,haemorrhagic,69
+G60z.,G60z.,Subarachnoid haemorrhage NOS,condition,stroke,diagnosis,haemorrhagic,65
+G623.,XaKK3,Subdural haemorrhage NOS,condition,stroke,diagnosis,haemorrhagic,59
+G622.,,Subdural haematoma - nontraumatic,condition,stroke,diagnosis,haemorrhagic,52
+,G61..,Intracerebral haemorrhage (& [cerebrovascular accident due to]),condition,stroke,diagnosis,haemorrhagic,35
+G62z.,G62z.,Intracranial haemorrhage NOS,condition,stroke,diagnosis,haemorrhagic,33
+,XE2w4,Non-traumatic subdural haematoma,condition,stroke,diagnosis,haemorrhagic,31
+,Xa01k,Subarachnoid haemorrhage from posterior communicating artery aneurysm,condition,stroke,diagnosis,haemorrhagic,28
+G613.,G613.,Cerebellar haemorrhage,condition,stroke,diagnosis,haemorrhagic,27
+G600.,G600.,Ruptured berry aneurysm,condition,stroke,diagnosis,haemorrhagic,18
+G621.,G621.,Subdural haemorrhage - nontraumatic,condition,stroke,diagnosis,haemorrhagic,13
+G61X0,XaBM4,"Left sided intracerebral haemorrhage, unspecified",condition,stroke,diagnosis,haemorrhagic,11
+G62..,G62..,Other and unspecified intracranial haemorrhage,condition,stroke,diagnosis,haemorrhagic,10
+G610.,G610.,Cortical haemorrhage,condition,stroke,diagnosis,haemorrhagic,9
+,Xa01h,Subarachnoid haemorrhage from middle cerebral artery aneurysm,condition,stroke,diagnosis,haemorrhagic,8
+,G612.,Basal ganglia haemorrhage,condition,stroke,diagnosis,haemorrhagic,7
+G617.,G617.,"Intracerebral haemorrhage, intraventricular",condition,stroke,diagnosis,haemorrhagic,7
+G614.,G614.,Pontine haemorrhage,condition,stroke,diagnosis,haemorrhagic,7
+Gyu61,Gyu61,[X]Other subarachnoid haemorrhage,condition,stroke,diagnosis,haemorrhagic,7
+G611.,G611.,Internal capsule haemorrhage,condition,stroke,diagnosis,haemorrhagic,6
+,Xa01j,Subarachnoid haemorrhage from anterior communicating artery aneurysm,condition,stroke,diagnosis,haemorrhagic,6
+,Xa01l,Subarachnoid haemorrhage from basilar artery aneurysm,condition,stroke,diagnosis,haemorrhagic,6
+,X00DO,Thalamic haemorrhage,condition,stroke,diagnosis,haemorrhagic,6
+,X00DQ,Brainstem haemorrhage,condition,stroke,diagnosis,haemorrhagic,5
+,X00Dg,Subarachnoid haemorrhage due to ruptured aneurysm,condition,stroke,diagnosis,haemorrhagic,5
+G61X1,XaBM5,"Right sided intracerebral haemorrhage, unspecified",condition,stroke,diagnosis,haemorrhagic,4
+,XE2bF,Spontaneous subarachnoid haemorrhage,condition,stroke,diagnosis,haemorrhagic,4
+Gyu62,Gyu62,[X]Other intracerebral haemorrhage,condition,stroke,diagnosis,haemorrhagic,4
+Gyu6E,Gyu6E,"[X]Subarachnoid haemorrhage from intracranial artery, unspecified",condition,stroke,diagnosis,haemorrhagic,4
+G61X.,,"Intracerebral haemorrhage in hemisphere, unspecified",condition,stroke,diagnosis,haemorrhagic,3
+Gyu6F,Gyu6F,"[X]Intracerebral haemorrhage in hemisphere, unspecified",condition,stroke,diagnosis,haemorrhagic,3
+G620.,G620.,Extradural haemorrhage - nontraumatic,condition,stroke,diagnosis,haemorrhagic,2
+G619.,X00DM,Lobar cerebral haemorrhage,condition,stroke,diagnosis,haemorrhagic,2
+,Xa1uU,Non-traumatic intracranial subdural haematoma,condition,stroke,diagnosis,haemorrhagic,2
+G605.,,Subarachnoid haemorrhage from basilar artery,condition,stroke,diagnosis,haemorrhagic,2
+,Xa01i,Subarachnoid haemorrhage from posterior cerebral artery aneurysm,condition,stroke,diagnosis,haemorrhagic,2
+G604.,,Subarachnoid haemorrhage from posterior communicating artery,condition,stroke,diagnosis,haemorrhagic,2
+,X00DN,Subcortical cerebral haemorrhage,condition,stroke,diagnosis,haemorrhagic,2
+,Xa0N7,Angiogram-negative subarachnoid haemorrhage,condition,stroke,diagnosis,haemorrhagic,1
+G612.,,Basal nucleus haemorrhage,condition,stroke,diagnosis,haemorrhagic,1
+,Xa01c,Subarachnoid haemorrhage from anterior cerebral artery aneurysm,condition,stroke,diagnosis,haemorrhagic,1
+G601.,G601.,Subarachnoid haemorrhage from carotid siphon and bifurcation,condition,stroke,diagnosis,haemorrhagic,1
+G602.,,Subarachnoid haemorrhage from middle cerebral artery,condition,stroke,diagnosis,haemorrhagic,1
+Gyu60,Gyu60,[X]Subarachnoid haemorrhage from other intracranial arteries,condition,stroke,diagnosis,haemorrhagic,1
+G615.,G615.,Bulbar haemorrhage,condition,stroke,diagnosis,haemorrhagic,0
+G616.,G616.,External capsule haemorrhage,condition,stroke,diagnosis,haemorrhagic,0
+,Xa0Bj,Intracerebellar and posterior fossa haemorrhage,condition,stroke,diagnosis,haemorrhagic,0
+,G618.,"Intracerebral haemorrhage, multiple localised",condition,stroke,diagnosis,haemorrhagic,0
+G618.,,"Intracerebral haemorrhage, multiple localized",condition,stroke,diagnosis,haemorrhagic,0
+,X00DP,Lacunar haemorrhage,condition,stroke,diagnosis,haemorrhagic,0
+,X00DL,Massive supratentorial cerebral haemorrhage,condition,stroke,diagnosis,haemorrhagic,0
+,XaEIg,Non-traumatic spinal subdural haematoma,condition,stroke,diagnosis,haemorrhagic,0
+,G60X.,See Gyu6E,condition,stroke,diagnosis,haemorrhagic,0
+,G61X.,See Gyu6F,condition,stroke,diagnosis,haemorrhagic,0
+,G619.,See X00DM,condition,stroke,diagnosis,haemorrhagic,0
+,.G712,See XE0VF,condition,stroke,diagnosis,haemorrhagic,0
+,G622.,See XE2w4,condition,stroke,diagnosis,haemorrhagic,0
+,G602.,See Xa01h,condition,stroke,diagnosis,haemorrhagic,0
+,G603.,See Xa01j,condition,stroke,diagnosis,haemorrhagic,0
+,G604.,See Xa01k,condition,stroke,diagnosis,haemorrhagic,0
+,G605.,See Xa01l,condition,stroke,diagnosis,haemorrhagic,0
+,.G711,See Xa1uW,condition,stroke,diagnosis,haemorrhagic,0
+,G60..,See Xa1uW,condition,stroke,diagnosis,haemorrhagic,0
+,G61X0,See XaBM4,condition,stroke,diagnosis,haemorrhagic,0
+,G61X1,See XaBM5,condition,stroke,diagnosis,haemorrhagic,0
+,G623.,See XaKK3,condition,stroke,diagnosis,haemorrhagic,0
+,X00Df,Subarachnoid haemorrhage due to ruptured arteriovenous malformation,condition,stroke,diagnosis,haemorrhagic,0
+G603.,,Subarachnoid haemorrhage from anterior communicating artery,condition,stroke,diagnosis,haemorrhagic,0
+,Xa01o,Subarachnoid haemorrhage from carotid artery aneurysm,condition,stroke,diagnosis,haemorrhagic,0
+G60X.,,"Subarachnoid haemorrhage from intracranial artery, unspecified",condition,stroke,diagnosis,haemorrhagic,0
+,Xa01b,Subarachnoid haemorrhage from multiple aneurysms,condition,stroke,diagnosis,haemorrhagic,0
+,Xa01m,Subarachnoid haemorrhage from posterior inferior cerebellar artery aneurysm,condition,stroke,diagnosis,haemorrhagic,0
+G606.,G606.,Subarachnoid haemorrhage from vertebral artery,condition,stroke,diagnosis,haemorrhagic,0
+G66..,XE2aB,Stroke and cerebrovascular accident unspecified,condition,stroke,diagnosis,ischaemic,3489
+,X00D1,Cerebrovascular accident,condition,stroke,diagnosis,ischaemic,995
+G64z.,XE0VJ,Cerebral infarction NOS,condition,stroke,diagnosis,ischaemic,641
+G64..,XE0VI,Cerebral arterial occlusion,condition,stroke,diagnosis,ischaemic,565
+,G66..,CVA - cerebrovascular accident (& unspecified [& stroke]),condition,stroke,diagnosis,ischaemic,346
+G634.,G634.,Carotid artery stenosis,condition,stroke,diagnosis,ischaemic,329
+,Xa0kZ,Cerebral infarction,condition,stroke,diagnosis,ischaemic,326
+,X00D3,CVA - cerebrovascular accident due to cerebral artery occlusion,condition,stroke,diagnosis,ischaemic,297
+,XaEGq,Stroke NOS,condition,stroke,diagnosis,ischaemic,292
+,X00DA,Lacunar infarction,condition,stroke,diagnosis,ischaemic,210
+,G668.,Right sided cerebral hemisphere cerebrovascular accident,condition,stroke,diagnosis,ischaemic,146
+,G667.,Left sided cerebral hemisphere cerebrovascular accident,condition,stroke,diagnosis,ischaemic,141
+,Xa00J,Cerebellar infarction,condition,stroke,diagnosis,ischaemic,139
+G64z3,XaBED,Right sided cerebral infarction,condition,stroke,diagnosis,ischaemic,139
+G64z2,XaBEC,Left sided cerebral infarction,condition,stroke,diagnosis,ischaemic,94
+,X00D7,Partial anterior cerebral circulation infarction,condition,stroke,diagnosis,ischaemic,89
+G664.,G664.,Cerebellar stroke syndrome,condition,stroke,diagnosis,ischaemic,57
+G631.,XE0VH,Carotid artery occlusion,condition,stroke,diagnosis,ischaemic,49
+G640.,G640.,Cerebral thrombosis,condition,stroke,diagnosis,ischaemic,49
+G667.,,Left sided CVA,condition,stroke,diagnosis,ischaemic,42
+G668.,,Right sided CVA,condition,stroke,diagnosis,ischaemic,40
+G64z0,Xa00K,Brainstem infarction,condition,stroke,diagnosis,ischaemic,38
+,X00DI,Haemorrhagic cerebral infarction,condition,stroke,diagnosis,ischaemic,37
+,X00D8,Posterior cerebral circulation infarction,condition,stroke,diagnosis,ischaemic,35
+,X203W,Internal carotid artery stenosis,condition,stroke,diagnosis,ischaemic,31
+,X00D6,Total anterior cerebral circulation infarction,condition,stroke,diagnosis,ischaemic,30
+,X00DT,Posterior circulation stroke of uncertain pathology,condition,stroke,diagnosis,ischaemic,29
+G64z4,XaJgQ,Infarction of basal ganglia,condition,stroke,diagnosis,ischaemic,28
+,Xa00I,Occipital cerebral infarction,condition,stroke,diagnosis,ischaemic,27
+,XE0X2,(Cerebral infarct) or (cerebrovascular accident) or (undefined stroke/CVA) or (stroke NOS),condition,stroke,diagnosis,ischaemic,25
+G6400,G6400,Cerebral infarction due to thrombosis of cerebral arteries,condition,stroke,diagnosis,ischaemic,16
+G63y0,G63y0,Cerebral infarct due to thrombosis of precerebral arteries,condition,stroke,diagnosis,ischaemic,15
+Gyu64,Gyu64,[X]Other cerebral infarction,condition,stroke,diagnosis,ischaemic,15
+,G663.,Brainstem stroke syndrome,condition,stroke,diagnosis,ischaemic,14
+G663.,,Brain stem stroke syndrome,condition,stroke,diagnosis,ischaemic,13
+G6410,G6410,Cerebral infarction due to embolism of cerebral arteries,condition,stroke,diagnosis,ischaemic,10
+G6X..,,Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries,condition,stroke,diagnosis,ischaemic,10
+G64z1,Xa00M,Wallenberg syndrome,condition,stroke,diagnosis,ischaemic,10
+G662.,G662.,Posterior cerebral artery syndrome,condition,stroke,diagnosis,ischaemic,9
+,X00DS,Anterior circulation stroke of uncertain pathology,condition,stroke,diagnosis,ischaemic,8
+,G641.,Cerebral embolus,condition,stroke,diagnosis,ischaemic,8
+G665.,XaQbK,Pure motor lacunar syndrome,condition,stroke,diagnosis,ischaemic,8
+G63y1,G63y1,Cerebral infarction due to embolism of precerebral arteries,condition,stroke,diagnosis,ischaemic,7
+,XaB4Z,Multiple lacunar infarcts,condition,stroke,diagnosis,ischaemic,7
+,X00DR,Stroke of uncertain pathology,condition,stroke,diagnosis,ischaemic,7
+Gyu63,Gyu63,[X]Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries,condition,stroke,diagnosis,ischaemic,7
+,X00D5,Anterior cerebral circulation infarction,condition,stroke,diagnosis,ischaemic,6
+,G631.,Carotid artery occlusion (& [stenosis] or [thrombosis]),condition,stroke,diagnosis,ischaemic,6
+Gyu6G,Gyu6G,[X]Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries,condition,stroke,diagnosis,ischaemic,6
+G660.,G660.,Middle cerebral artery syndrome,condition,stroke,diagnosis,ischaemic,5
+G63..,XE0VG,Precerebral arterial occlusion,condition,stroke,diagnosis,ischaemic,5
+,X00DB,Pure motor lacunar infarction,condition,stroke,diagnosis,ischaemic,5
+G632.,G632.,Vertebral artery occlusion,condition,stroke,diagnosis,ischaemic,5
+G641.,,Cerebral embolism,condition,stroke,diagnosis,ischaemic,4
+,Xa1hE,Extension of cerebrovascular accident,condition,stroke,diagnosis,ischaemic,4
+,X203u,Carotid artery thrombosis,condition,stroke,diagnosis,ischaemic,3
+G6W..,,Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries,condition,stroke,diagnosis,ischaemic,3
+,X00DK,Posterior cerebral circulation haemorrhagic infarction,condition,stroke,diagnosis,ischaemic,3
+G630.,G630.,Basilar artery occlusion,condition,stroke,diagnosis,ischaemic,2
+,Xa3fV,Cerebral artery occlusion NOS,condition,stroke,diagnosis,ischaemic,2
+,G64z.,Infarction (& [cerebellar] or [cerebral NOS] or [brainstem NOS]),condition,stroke,diagnosis,ischaemic,2
+,X00DD,Pure sensorimotor lacunar infarction,condition,stroke,diagnosis,ischaemic,2
+,X00DC,Pure sensory lacunar infarction,condition,stroke,diagnosis,ischaemic,2
+G666.,XaQbM,Pure sensory lacunar syndrome,condition,stroke,diagnosis,ischaemic,2
+G661.,G661.,Anterior cerebral artery syndrome,condition,stroke,diagnosis,ischaemic,1
+,X00D9,Brainstem infarction NOS,condition,stroke,diagnosis,ischaemic,1
+,G64..,Cerebral arterial occlusion(&[cerebrovascular accident due to] or [stroke due to]) or (cerebral infarction),condition,stroke,diagnosis,ischaemic,1
+,X00DF,Dysarthria-clumsy hand syndrome,condition,stroke,diagnosis,ischaemic,1
+,X00DE,Lacunar ataxic hemiparesis,condition,stroke,diagnosis,ischaemic,1
+,X00DG,Multi-infarct state,condition,stroke,diagnosis,ischaemic,1
+,G63..,Precerebral: [arterial occlusion] or [arterial stenosis] or [infarction],condition,stroke,diagnosis,ischaemic,1
+Gyu66,Gyu66,[X]Occlusion and stenosis of other cerebral arteries,condition,stroke,diagnosis,ischaemic,1
+,X00DJ,Anterior cerebral circulation haemorrhagic infarction,condition,stroke,diagnosis,ischaemic,0
+,Xa00L,Benedict syndrome,condition,stroke,diagnosis,ischaemic,0
+,Xa00Q,Claude syndrome,condition,stroke,diagnosis,ischaemic,0
+,Xa6YV,Embolus of circle of Willis,condition,stroke,diagnosis,ischaemic,0
+,Xa00N,Foville syndrome,condition,stroke,diagnosis,ischaemic,0
+,X00D4,Infarction - precerebral,condition,stroke,diagnosis,ischaemic,0
+,Xa00O,Millard-Gubler syndrome,condition,stroke,diagnosis,ischaemic,0
+G633.,G633.,Multiple and bilateral precerebral arterial occlusion,condition,stroke,diagnosis,ischaemic,0
+G63y.,G63y.,Other precerebral artery occlusion,condition,stroke,diagnosis,ischaemic,0
+G63z.,G63z.,Precerebral artery occlusion NOS,condition,stroke,diagnosis,ischaemic,0
+,.G721,See G630.,condition,stroke,diagnosis,ischaemic,0
+,.G723,See G632.,condition,stroke,diagnosis,ischaemic,0
+,.G72Z,See G63z.,condition,stroke,diagnosis,ischaemic,0
+,.G731,See G640.,condition,stroke,diagnosis,ischaemic,0
+,.G732,See G641.,condition,stroke,diagnosis,ischaemic,0
+,G6X..,See Gyu63,condition,stroke,diagnosis,ischaemic,0
+,G6W..,See Gyu6G,condition,stroke,diagnosis,ischaemic,0
+,.G72.,See XE0VG,condition,stroke,diagnosis,ischaemic,0
+,.G722,See XE0VH,condition,stroke,diagnosis,ischaemic,0
+,.G73.,See XE0VI,condition,stroke,diagnosis,ischaemic,0
+,.G7..,See XE0Ww,condition,stroke,diagnosis,ischaemic,0
+,.G75.,See XE0X2,condition,stroke,diagnosis,ischaemic,0
+,G64z0,See Xa00K,condition,stroke,diagnosis,ischaemic,0
+,G64z1,See Xa00M,condition,stroke,diagnosis,ischaemic,0
+,.G73Z,See Xa3fV,condition,stroke,diagnosis,ischaemic,0
+,G64z2,See XaBEC,condition,stroke,diagnosis,ischaemic,0
+,G64z3,See XaBED,condition,stroke,diagnosis,ischaemic,0
+,G64z4,See XaJgQ,condition,stroke,diagnosis,ischaemic,0
+,G665.,See XaQbK,condition,stroke,diagnosis,ischaemic,0
+,G666.,See XaQbM,condition,stroke,diagnosis,ischaemic,0
+,X203V,Stenosis of precerebral arteries,condition,stroke,diagnosis,ischaemic,0
+,Xa00R,Top of basilar syndrome,condition,stroke,diagnosis,ischaemic,0
+,Xa00P,Weber syndrome,condition,stroke,diagnosis,ischaemic,0
+Gyu65,Gyu65,[X]Occlusion and stenosis of other precerebral arteries,condition,stroke,diagnosis,ischaemic,0
+G65..,,Transient cerebral ischaemia,condition,tia,diagnosis,,3476
+,XE0VK,Transient ischaemic attack,condition,tia,diagnosis,,3444
+G65zz,G65z.,Transient cerebral ischaemia NOS,condition,tia,diagnosis,,1255
+G65z.,G65z.,Transient cerebral ischaemia NOS,condition,tia,diagnosis,,1102
+G656.,X00DW,Vertebrobasilar insufficiency,condition,tia,diagnosis,,83
+,XaEGK,Transient ischaemic attacks,condition,tia,diagnosis,,65
+,G65..,(Drop attack) or (transient cerebral ischaemia) or (vertebro-basilar insufficiency),condition,tia,diagnosis,,48
+G657.,X00DU,Carotid territory transient ischaemic attack,condition,tia,diagnosis,,28
+G65y.,G65y.,Other transient cerebral ischaemia,condition,tia,diagnosis,,25
+G650.,G650.,Basilar artery syndrome,condition,tia,diagnosis,,13
+G652.,G652.,Subclavian steal syndrome,condition,tia,diagnosis,,12
+,X00DV,Vertebrobasilar territory transient ischaemic attack,condition,tia,diagnosis,,8
+G65z0,G65z0,Impending cerebral ischaemia,condition,tia,diagnosis,,5
+G651.,G651.,Vertebral artery syndrome,condition,tia,diagnosis,,4
+G6510,,Vertebro-basilar artery syndrome,condition,tia,diagnosis,,4
+,G6510,Vertebrobasilar artery syndrome,condition,tia,diagnosis,,4
+,XE0X0,(Transient ischaemic attacks) or (vertebro-basilar insufficiency) or (drop attacks),condition,tia,diagnosis,,1
+G653.,G653.,Carotid artery syndrome hemispheric,condition,tia,diagnosis,,1
+G65z1,G65z1,Intermittent cerebral ischaemia,condition,tia,diagnosis,,1
+,Xa00T,Drop attack,condition,tia,diagnosis,,0
+G654.,G654.,Multiple and bilateral precerebral artery syndromes,condition,tia,diagnosis,,0
+,G65zz,See G65z.,condition,tia,diagnosis,,0
+,G657.,See X00DU,condition,tia,diagnosis,,0
+,G656.,See X00DW,condition,tia,diagnosis,,0
+,.G74.,See XE0X0,condition,tia,diagnosis,,0
+14AB.,14AB.,H/O: TIA,condition,tia,history,,311
+ZV12D,XaX16,[V]Personal history of transient ischaemic attack,condition,tia,history,,10
+,.14AB,See 14AB.,condition,tia,history,,0
+,ZV12D,See XaX16,condition,tia,history,,0

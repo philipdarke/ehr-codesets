@@ -1,0 +1,305 @@
+read_2,read_3,desc,type,variable,value,level,N
+,22K..,Body mass index - observation,biomarker,anthropometric,bmi,,1081253
+22K..,,Body Mass Index,biomarker,anthropometric,bmi,,434061
+22K5.,22K5.,Body mass index 30+ - obesity,biomarker,anthropometric,bmi,,20806
+22K4.,22K4.,Body mass index index 25-29 - overweight,biomarker,anthropometric,bmi,,16458
+,22K1.,Body mass index normal K/M2,biomarker,anthropometric,bmi,,16232
+22K2.,,Body Mass Index high K/M2,biomarker,anthropometric,bmi,,11719
+,22K2.,Body mass index high K/M2,biomarker,anthropometric,bmi,,9574
+22K1.,,Body Mass Index normal K/M2,biomarker,anthropometric,bmi,,5794
+22K8.,XaJqk,Body mass index 20-24 - normal,biomarker,anthropometric,bmi,,5384
+22K7.,XaJJH,Body mass index 40+ - severely obese,biomarker,anthropometric,bmi,,1985
+22K6.,XaCDR,Body mass index less than 20,biomarker,anthropometric,bmi,,791
+,22K3.,Body mass index low K/M2,biomarker,anthropometric,bmi,,641
+22K3.,,Body Mass Index low K/M2,biomarker,anthropometric,bmi,,463
+22KC.,XabHx,Obese class I (body mass index 30.0 - 34.9),biomarker,anthropometric,bmi,,45
+22KD.,XabHy,Obese class II (body mass index 35.0 - 39.9),biomarker,anthropometric,bmi,,35
+,X76CN,Weight for height,biomarker,anthropometric,bmi,,32
+22KE.,XabHz,Obese class III (body mass index equal to or greater than 40.0),biomarker,anthropometric,bmi,,14
+,22K6.,See XaCDR,biomarker,anthropometric,bmi,,1
+,X76CO,Quetelet index,biomarker,anthropometric,bmi,,0
+,.22K.,See 22K..,biomarker,anthropometric,bmi,,0
+,.22K1,See 22K1.,biomarker,anthropometric,bmi,,0
+,.22K2,See 22K2.,biomarker,anthropometric,bmi,,0
+,.22K3,See 22K3.,biomarker,anthropometric,bmi,,0
+,.22K4,See 22K4.,biomarker,anthropometric,bmi,,0
+,.22K5,See 22K5.,biomarker,anthropometric,bmi,,0
+,X76CP,See X76CN,biomarker,anthropometric,bmi,,0
+,.22K6,See XaCDR,biomarker,anthropometric,bmi,,0
+,.22K7,See XaJJH,biomarker,anthropometric,bmi,,0
+,22K7.,See XaJJH,biomarker,anthropometric,bmi,,0
+,.22K8,See XaJqk,biomarker,anthropometric,bmi,,0
+,22K8.,See XaJqk,biomarker,anthropometric,bmi,,0
+,22KC.,See XabHx,biomarker,anthropometric,bmi,,0
+,22KD.,See XabHy,biomarker,anthropometric,bmi,,0
+,22KE.,See XabHz,biomarker,anthropometric,bmi,,0
+229..,229..,O/E - height,biomarker,anthropometric,height,,996507
+22Z..,22Z..,Height and Weight,biomarker,anthropometric,height,,1083
+229Z.,229Z.,O/E - height NOS,biomarker,anthropometric,height,,952
+2293.,2293.,O/E -height within 10% average,biomarker,anthropometric,height,,438
+2296.,2296.,O/E - loss of height,biomarker,anthropometric,height,,114
+2294.,2294.,O/E-height 10-20% over average,biomarker,anthropometric,height,,19
+,2291.,O/E - height greater than 20% below average,biomarker,anthropometric,height,,10
+,2292.,O/E - height 10-20% below average,biomarker,anthropometric,height,,9
+2292.,,O/E - height 10-20% < average,biomarker,anthropometric,height,,3
+2291.,,O/E-height > 20% below average,biomarker,anthropometric,height,,2
+,2295.,O/E - height greater than 20% over average,biomarker,anthropometric,height,,0
+2295.,,O/E -height > 20% over average,biomarker,anthropometric,height,,0
+,.229.,See 229..,biomarker,anthropometric,height,,0
+,.2291,See 2291.,biomarker,anthropometric,height,,0
+,.2292,See 2292.,biomarker,anthropometric,height,,0
+,.2293,See 2293.,biomarker,anthropometric,height,,0
+,.2294,See 2294.,biomarker,anthropometric,height,,0
+,.2295,See 2295.,biomarker,anthropometric,height,,0
+,.2296,See 2296.,biomarker,anthropometric,height,,0
+,.229Z,See 229Z.,biomarker,anthropometric,height,,0
+,.22Z.,See 22Z..,biomarker,anthropometric,height,,0
+22N0.,Xa041,Waist circumference,biomarker,anthropometric,waist,,110068
+,X74Yl,Waist,biomarker,anthropometric,waist,,8
+,.22N0,See Xa041,biomarker,anthropometric,waist,,0
+,22N0.,See Xa041,biomarker,anthropometric,waist,,0
+22A..,22A..,O/E - weight,biomarker,anthropometric,weight,,1645908
+22AZ.,22AZ.,O/E - weight NOS,biomarker,anthropometric,weight,,2938
+22A4.,XE1h3,O/E - weight 10-20% over ideal,biomarker,anthropometric,weight,,2287
+22A3.,22A3.,O/E - weight within 10% ideal,biomarker,anthropometric,weight,,2276
+,XM01G,Weight observation,biomarker,anthropometric,weight,,1875
+22Z..,22Z..,Height and Weight,biomarker,anthropometric,weight,,1083
+222A.,222A.,O/E - obese,biomarker,anthropometric,weight,,702
+,XM1YD,O/E - overweight,biomarker,anthropometric,weight,,613
+22A5.,,O/E - weight > 20% over ideal,biomarker,anthropometric,weight,,606
+,X76C9,Weight gain,biomarker,anthropometric,weight,,525
+,22A5.,O/E weight: [>20% over ideal] or [obese],biomarker,anthropometric,weight,,398
+,XE1h4,O/E - weight greater than 20% over ideal,biomarker,anthropometric,weight,,290
+22AA.,X40YL,Overweight,biomarker,anthropometric,weight,,226
+,X76C7,Body weight - observation,biomarker,anthropometric,weight,,137
+22A2.,22A2.,O/E -weight 10-20% below ideal,biomarker,anthropometric,weight,,122
+,Xa7wG,Observation of body mass index,biomarker,anthropometric,weight,,72
+,22A4.,O/E - overweight (& [weight 10-20% over ideal]),biomarker,anthropometric,weight,,62
+22A6.,22A6.,O/E - Underweight,biomarker,anthropometric,weight,,44
+,X76C3,Underweight,biomarker,anthropometric,weight,,35
+,Xa7wL,Body weight problem,biomarker,anthropometric,weight,,20
+,Xa7wI,Observation of measures of body weight,biomarker,anthropometric,weight,,20
+,Xa7wK,Body weight normal,biomarker,anthropometric,weight,,19
+,22A1.,O/E - weight greater than 20% below ideal,biomarker,anthropometric,weight,,19
+22A1.,,O/E - weight > 20% below ideal,biomarker,anthropometric,weight,,18
+,Ua16s,Excessive weight gain,biomarker,anthropometric,weight,,12
+,X76C1,General appraisal of weight,biomarker,anthropometric,weight,,7
+,X76CE,Reference weight,biomarker,anthropometric,weight,,6
+,X76C4,Weight trend,biomarker,anthropometric,weight,,6
+,X76C8,Weight change,biomarker,anthropometric,weight,,5
+,XM07Z,Failure to gain weight,biomarker,anthropometric,weight,,4
+,Ua17R,Observation of birth weight,biomarker,anthropometric,weight,,3
+,X76CL,Weight centile,biomarker,anthropometric,weight,,2
+,Xa7wH,Observation of birth weight centile,biomarker,anthropometric,weight,,1
+,X76CI,Percentage of reference weight,biomarker,anthropometric,weight,,1
+,Ua16l,Target weight observations,biomarker,anthropometric,weight,,1
+,X76CG,Usual body weight,biomarker,anthropometric,weight,,1
+,X76Br,Weight fluctuates,biomarker,anthropometric,weight,,1
+,Xa7wJ,Birth weight centile,biomarker,anthropometric,weight,,0
+,Xa0BX,Normal birth weight,biomarker,anthropometric,weight,,0
+,X76CB,Percentage change in weight,biomarker,anthropometric,weight,,0
+,X76CJ,Percentage overweight,biomarker,anthropometric,weight,,0
+,X76CK,Percentage underweight,biomarker,anthropometric,weight,,0
+,X76CC,Percentage weight gain,biomarker,anthropometric,weight,,0
+,X76CH,Previous well-weight,biomarker,anthropometric,weight,,0
+,.22A.,See 22A..,biomarker,anthropometric,weight,,0
+,.22A1,See 22A1.,biomarker,anthropometric,weight,,0
+,.22A2,See 22A2.,biomarker,anthropometric,weight,,0
+,.22A3,See 22A3.,biomarker,anthropometric,weight,,0
+,.22A4,See 22A4.,biomarker,anthropometric,weight,,0
+,.22A5,See 22A5.,biomarker,anthropometric,weight,,0
+,.22A6,See 22A6.,biomarker,anthropometric,weight,,0
+,.22AZ,See 22AZ.,biomarker,anthropometric,weight,,0
+,.22Z.,See 22Z..,biomarker,anthropometric,weight,,0
+,22AA.,See X40YL,biomarker,anthropometric,weight,,0
+,X76CM,Trend in weight centile,biomarker,anthropometric,weight,,0
+,Xa03n,Weight centile velocity,biomarker,anthropometric,weight,,0
+,Xa03m,Weight velocity,biomarker,anthropometric,weight,,0
+44g1.,44g1.,Plasma fasting glucose level,biomarker,blood_glucose,fpg,,234630
+44TK.,XE2mq,Fasting blood glucose level,biomarker,blood_glucose,fpg,,75106
+44f1.,44f1.,Serum fasting glucose level,biomarker,blood_glucose,fpg,,59163
+44T2.,,Fasting blood sugar,biomarker,blood_glucose,fpg,,16522
+R10D0,XaIRK,[D]Impaired fasting glycaemia,biomarker,blood_glucose,fpg,,2640
+,44T2.,Fasting blood glucose (& level),biomarker,blood_glucose,fpg,,1052
+,.44T2,See 44T2.,biomarker,blood_glucose,fpg,,0
+,.44f1,See 44f1.,biomarker,blood_glucose,fpg,,0
+,.44g1,See 44g1.,biomarker,blood_glucose,fpg,,0
+,.44TK,See XE2mq,biomarker,blood_glucose,fpg,,0
+,44TK.,See XE2mq,biomarker,blood_glucose,fpg,,0
+,R10D0,See XaIRK,biomarker,blood_glucose,fpg,,0
+42W5.,XaPbt,Haemoglobin A1c level - International Federation of Clinical Chemistry and Laboratory Medicine standardised,biomarker,blood_glucose,hba1c,,378381
+42W4.,XaERp,HbA1c level (DCCT aligned),biomarker,blood_glucose,hba1c,,174955
+44TB.,X772q,Haemoglobin A1c level,biomarker,blood_glucose,hba1c,,112070
+42W..,XE24t,Hb. A1C - diabetic control,biomarker,blood_glucose,hba1c,,28342
+42c..,XaCES,HbA1 - diabetic control,biomarker,blood_glucose,hba1c,,3909
+42W2.,42W2.,Hb. A1C 7-10% - borderline,biomarker,blood_glucose,hba1c,,2147
+42W1.,42W1.,Hb. A1C < 7% - good control,biomarker,blood_glucose,hba1c,,1722
+66Ae0,XaWP9,HbA1c (haemoglobin A1c) target level - IFCC (International Federation of Clinical Chemistry and Laboratory Medicine) standardised,biomarker,blood_glucose,hba1c,,1636
+42WZ.,42WZ.,Hb. A1C - diabetic control NOS,biomarker,blood_glucose,hba1c,,1275
+,X80U3,Glycosylated haemoglobin,biomarker,blood_glucose,hba1c,,852
+42c3.,XaERo,HbA1 level (DCCT aligned),biomarker,blood_glucose,hba1c,,795
+44TC.,XaBLm,Haemoglobin A1 level,biomarker,blood_glucose,hba1c,,543
+42W3.,42W3.,Hb. A1C > 10% - bad control,biomarker,blood_glucose,hba1c,,392
+,XaCEU,HbA1 7-10% - borderline control,biomarker,blood_glucose,hba1c,,341
+,XaCET,HbA1 less than 7% - good control,biomarker,blood_glucose,hba1c,,264
+42c1.,,HbA1 7 - 10% - borderline control,biomarker,blood_glucose,hba1c,,69
+,XaCEV,HbA1 greater than 10% - bad control,biomarker,blood_glucose,hba1c,,68
+42c0.,,HbA1 < 7% - good control,biomarker,blood_glucose,hba1c,,63
+,X80U4,Glycosylated haemoglobin-c fraction,biomarker,blood_glucose,hba1c,,13
+42c2.,,HbA1 > 10% - bad control,biomarker,blood_glucose,hba1c,,3
+,42c0.,See XaCET,biomarker,blood_glucose,hba1c,,1
+,42c1.,See XaCEU,biomarker,blood_glucose,hba1c,,1
+,42W..,Hb. A1C - glycated haemoglobin (& [diabetic control]),biomarker,blood_glucose,hba1c,,0
+,.42W.,See 42W..,biomarker,blood_glucose,hba1c,,0
+,.42W1,See 42W1.,biomarker,blood_glucose,hba1c,,0
+,.42W2,See 42W2.,biomarker,blood_glucose,hba1c,,0
+,.42W3,See 42W3.,biomarker,blood_glucose,hba1c,,0
+,.42WZ,See 42WZ.,biomarker,blood_glucose,hba1c,,0
+,.44TB,See X772q,biomarker,blood_glucose,hba1c,,0
+,44TB.,See X772q,biomarker,blood_glucose,hba1c,,0
+,.44TC,See XaBLm,biomarker,blood_glucose,hba1c,,0
+,44TC.,See XaBLm,biomarker,blood_glucose,hba1c,,0
+,.42c.,See XaCES,biomarker,blood_glucose,hba1c,,0
+,42c..,See XaCES,biomarker,blood_glucose,hba1c,,0
+,.42c0,See XaCET,biomarker,blood_glucose,hba1c,,0
+,.42c1,See XaCEU,biomarker,blood_glucose,hba1c,,0
+,.42c2,See XaCEV,biomarker,blood_glucose,hba1c,,0
+,42c2.,See XaCEV,biomarker,blood_glucose,hba1c,,0
+,.42c3,See XaERo,biomarker,blood_glucose,hba1c,,0
+,42c3.,See XaERo,biomarker,blood_glucose,hba1c,,0
+,.42W4,See XaERp,biomarker,blood_glucose,hba1c,,0
+,42W4.,See XaERp,biomarker,blood_glucose,hba1c,,0
+,.42W5,See XaPbt,biomarker,blood_glucose,hba1c,,0
+,42W5.,See XaPbt,biomarker,blood_glucose,hba1c,,0
+,66Ae0,See XaWP9,biomarker,blood_glucose,hba1c,,0
+44V..,XE25Z,Glucose tolerance test,biomarker,blood_glucose,ogtt,2hour,21381
+7P172,XE25Z,Glucose tolerance test,biomarker,blood_glucose,ogtt,2hour,16651
+C11y2,X40Jh,Impaired glucose tolerance,biomarker,blood_glucose,ogtt,2hour,4757
+44g6.,XaEOV,120 minute plasma glucose level,biomarker,blood_glucose,ogtt,2hour,3530
+R102.,R102.,[D]Glucose tolerance test abnormal,biomarker,blood_glucose,ogtt,2hour,2472
+R10E.,XaInl,[D]Impaired glucose tolerance,biomarker,blood_glucose,ogtt,2hour,2174
+44V1.,44V1.,Glucose tolerance test normal,biomarker,blood_glucose,ogtt,2hour,654
+44TH.,XaENB,120 minute blood glucose level,biomarker,blood_glucose,ogtt,2hour,631
+44f6.,XaEOZ,120 minute serum glucose level,biomarker,blood_glucose,ogtt,2hour,503
+44V2.,44V2.,Glucose tol. test impaired,biomarker,blood_glucose,ogtt,2hour,425
+44VZ.,44VZ.,Glucose tolerance test NOS,biomarker,blood_glucose,ogtt,2hour,229
+44U7.,44U7.,2 hour post-prandial blood glucose level,biomarker,blood_glucose,ogtt,2hour,214
+,XE25X,2 hours post-food blood sugar level,biomarker,blood_glucose,ogtt,2hour,166
+44g2.,44g2.,Plasma 2-hr post-prandial glucose level,biomarker,blood_glucose,ogtt,2hour,126
+,X77XF,Blood glucose tolerance,biomarker,blood_glucose,ogtt,2hour,95
+44V3.,44V3.,Glucose tol. test diabetic,biomarker,blood_glucose,ogtt,2hour,52
+44f2.,44f2.,Serum 2-hr post-prandial glucose level,biomarker,blood_glucose,ogtt,2hour,30
+44T3.,,2 hours post food blood sugar,biomarker,blood_glucose,ogtt,2hour,13
+,Xa973,Post-prandial blood glucose,biomarker,blood_glucose,ogtt,2hour,8
+44V4.,44V4.,GTT = renal glycosuria,biomarker,blood_glucose,ogtt,2hour,5
+,X77XG,Blood sugar tolerance,biomarker,blood_glucose,ogtt,2hour,4
+44V6.,XaMLQ,Extended glucose tolerance test,biomarker,blood_glucose,ogtt,2hour,3
+,44T3.,Post prandial blood sugar (& level (& 2hrs)),biomarker,blood_glucose,ogtt,2hour,3
+,44V..,Glucose tolerance (& blood (& test),biomarker,blood_glucose,ogtt,2hour,0
+,.44T3,See 44T3.,biomarker,blood_glucose,ogtt,2hour,0
+,.44U7,See 44U7.,biomarker,blood_glucose,ogtt,2hour,0
+,.44V.,See 44V..,biomarker,blood_glucose,ogtt,2hour,0
+,.44V1,See 44V1.,biomarker,blood_glucose,ogtt,2hour,0
+,.44V2,See 44V2.,biomarker,blood_glucose,ogtt,2hour,0
+,.44V3,See 44V3.,biomarker,blood_glucose,ogtt,2hour,0
+,.44V4,See 44V4.,biomarker,blood_glucose,ogtt,2hour,0
+,.44VZ,See 44VZ.,biomarker,blood_glucose,ogtt,2hour,0
+,.44f2,See 44f2.,biomarker,blood_glucose,ogtt,2hour,0
+,.44g2,See 44g2.,biomarker,blood_glucose,ogtt,2hour,0
+,.RA2.,See R102.,biomarker,blood_glucose,ogtt,2hour,0
+,7P172,See XE25Z,biomarker,blood_glucose,ogtt,2hour,0
+,.44TH,See XaENB,biomarker,blood_glucose,ogtt,2hour,0
+,44TH.,See XaENB,biomarker,blood_glucose,ogtt,2hour,0
+,.44g6,See XaEOV,biomarker,blood_glucose,ogtt,2hour,0
+,44g6.,See XaEOV,biomarker,blood_glucose,ogtt,2hour,0
+,.44f6,See XaEOZ,biomarker,blood_glucose,ogtt,2hour,0
+,44f6.,See XaEOZ,biomarker,blood_glucose,ogtt,2hour,0
+,R10E.,See XaInl,biomarker,blood_glucose,ogtt,2hour,0
+,.44V6,See XaMLQ,biomarker,blood_glucose,ogtt,2hour,0
+,44V6.,See XaMLQ,biomarker,blood_glucose,ogtt,2hour,0
+,XE2mp,Random blood glucose level,biomarker,blood_glucose,random,,23929
+44g0.,44g0.,Plasma random glucose level,biomarker,blood_glucose,random,,16336
+44f0.,44f0.,Serum random glucose level,biomarker,blood_glucose,random,,8988
+44T1.,,Random blood sugar,biomarker,blood_glucose,random,,7530
+44T10,44T10,Random blood sugar normal,biomarker,blood_glucose,random,,6544
+,44T1.,Random blood glucose (& level),biomarker,blood_glucose,random,,1593
+44T12,44T12,Random blood sugar raised,biomarker,blood_glucose,random,,1564
+,XE28q,(Blood sugar method [& glucose]) or (random blood sugar),biomarker,blood_glucose,random,,46
+44T11,44T11,Random blood sugar low,biomarker,blood_glucose,random,,25
+,.44T1,See 44T1.,biomarker,blood_glucose,random,,0
+,.44f0,See 44f0.,biomarker,blood_glucose,random,,0
+,.44g0,See 44g0.,biomarker,blood_glucose,random,,0
+,.44T.,See XE28q,biomarker,blood_glucose,random,,0
+44g..,XM0ly,Plasma glucose level,biomarker,blood_glucose,unknown,,468012
+44TJ.,X772z,Blood glucose level,biomarker,blood_glucose,unknown,,122532
+44f..,44f..,Serum glucose level,biomarker,blood_glucose,unknown,,73643
+44U..,XE25Y,Blood glucose result,biomarker,blood_glucose,unknown,,61702
+,XaBLn,Self-monitoring of blood glucose,biomarker,blood_glucose,unknown,,12248
+44T9.,44T9.,Glucometer blood sugar,biomarker,blood_glucose,unknown,,6488
+44TA.,,Plasma glucose,biomarker,blood_glucose,unknown,,2803
+8A17.,,Self monitoring of blood glucose,biomarker,blood_glucose,unknown,,2729
+44T..,44T..,Blood glucose method,biomarker,blood_glucose,unknown,,1990
+44U4.,44U4.,Blood glucose 5-6.9 mmol/L,biomarker,blood_glucose,unknown,,1983
+66AT.,66AT.,Annual diabetic blood test,biomarker,blood_glucose,unknown,,1934
+66AC.,66AC.,Blood sugar charts,biomarker,blood_glucose,unknown,,1648
+44U3.,44U3.,Blood glucose 2.5-4.9 mmol/L,biomarker,blood_glucose,unknown,,1320
+44U8.,44U8.,Blood glucose normal,biomarker,blood_glucose,unknown,,1183
+44Uz.,44Uz.,Blood glucose raised NOS,biomarker,blood_glucose,unknown,,1065
+44U5.,44U5.,Blood glucose 7-9.9 mmol/L,biomarker,blood_glucose,unknown,,820
+44U6.,44U6.,Blood glucose 10-13.9 mmol/L,biomarker,blood_glucose,unknown,,505
+44TZ.,44TZ.,Blood glucose method NOS,biomarker,blood_glucose,unknown,,460
+44U9.,44U9.,Blood glucose abnormal,biomarker,blood_glucose,unknown,,344
+44UZ.,44UZ.,Blood glucose 14+ mmol/L,biomarker,blood_glucose,unknown,,297
+,XaFxf,[D]Hyperglycaemia,biomarker,blood_glucose,unknown,,276
+44T5.,44T5.,Laboratory blood sugar,biomarker,blood_glucose,unknown,,203
+,XE2mt,Bedtime blood sugar/glucose (and?[procedure OR observable]),biomarker,blood_glucose,unknown,,178
+R10D.,,[D]Elevated blood glucose level,biomarker,blood_glucose,unknown,,163
+,XM1Vx,BM stix glucose level,biomarker,blood_glucose,unknown,,152
+,Xa974,Capillary blood glucose level,biomarker,blood_glucose,unknown,,138
+,XE2qA,Dipstick blood sugar level,biomarker,blood_glucose,unknown,,98
+44T4.,,Dip-stick blood sugar,biomarker,blood_glucose,unknown,,68
+44TM.,XaJmX,Blood glucose series,biomarker,blood_glucose,unknown,,16
+44TJ0,XaXdW,Blood glucose range before breakfast,biomarker,blood_glucose,unknown,,15
+44U1.,44U1.,Blood glucose 0-1.4 mmol/L,biomarker,blood_glucose,unknown,,11
+,44T4.,Dip-stick blood sugar (& level),biomarker,blood_glucose,unknown,,10
+44TJ5,XaXdY,Blood glucose range before evening meal,biomarker,blood_glucose,unknown,,9
+44TJ3,XaXee,Blood glucose range before lunch,biomarker,blood_glucose,unknown,,8
+44U2.,44U2.,Blood glucose 1.5-2.4 mmol/L,biomarker,blood_glucose,unknown,,5
+,XaaFo,Blood glucose level after breakfast,biomarker,blood_glucose,unknown,,4
+44TJ1,XaXdZ,Blood glucose range after breakfast,biomarker,blood_glucose,unknown,,2
+,XaaFq,Blood glucose level after lunch,biomarker,blood_glucose,unknown,,1
+,XaaFn,Blood glucose level before breakfast,biomarker,blood_glucose,unknown,,1
+,XaaFs,Blood glucose level before evening meal,biomarker,blood_glucose,unknown,,0
+44TJ6,XaXda,Blood glucose range after evening meal,biomarker,blood_glucose,unknown,,0
+44TJ4,XaXdX,Blood glucose range after lunch,biomarker,blood_glucose,unknown,,0
+,44U..,Blood sugar result: (& glucose (& plasma)),biomarker,blood_glucose,unknown,,0
+,XE2mr,Lunchtime blood ([?sugar/glucose] and [pre/post] and [?procedure/observable]),biomarker,blood_glucose,unknown,,0
+44TJ7,XaXcf,Overnight blood glucose range,biomarker,blood_glucose,unknown,,0
+,.44T4,See 44T4.,biomarker,blood_glucose,unknown,,0
+,.44T5,See 44T5.,biomarker,blood_glucose,unknown,,0
+,.44T9,See 44T9.,biomarker,blood_glucose,unknown,,0
+,.44TZ,See 44TZ.,biomarker,blood_glucose,unknown,,0
+,.44U1,See 44U1.,biomarker,blood_glucose,unknown,,0
+,.44U2,See 44U2.,biomarker,blood_glucose,unknown,,0
+,.44U3,See 44U3.,biomarker,blood_glucose,unknown,,0
+,.44U4,See 44U4.,biomarker,blood_glucose,unknown,,0
+,.44U5,See 44U5.,biomarker,blood_glucose,unknown,,0
+,.44U6,See 44U6.,biomarker,blood_glucose,unknown,,0
+,.44U8,See 44U8.,biomarker,blood_glucose,unknown,,0
+,.44U9,See 44U9.,biomarker,blood_glucose,unknown,,0
+,.44UZ,See 44UZ.,biomarker,blood_glucose,unknown,,0
+,.44Uz,See 44Uz.,biomarker,blood_glucose,unknown,,0
+,.44f.,See 44f..,biomarker,blood_glucose,unknown,,0
+,.66AC,See 66AC.,biomarker,blood_glucose,unknown,,0
+,.66AT,See 66AT.,biomarker,blood_glucose,unknown,,0
+,.44TJ,See X772z,biomarker,blood_glucose,unknown,,0
+,44TJ.,See X772z,biomarker,blood_glucose,unknown,,0
+,.44U.,See XE28s,biomarker,blood_glucose,unknown,,0
+,.44TA,See XM0ly,biomarker,blood_glucose,unknown,,0
+,.44g.,See XM0ly,biomarker,blood_glucose,unknown,,0
+,44TA.,See XM0ly,biomarker,blood_glucose,unknown,,0
+,44g..,See XM0ly,biomarker,blood_glucose,unknown,,0
+,.8A17,See XaBLn,biomarker,blood_glucose,unknown,,0
+,8A17.,See XaBLn,biomarker,blood_glucose,unknown,,0
+,.44TM,See XaJmX,biomarker,blood_glucose,unknown,,0
+,44TM.,See XaJmX,biomarker,blood_glucose,unknown,,0
